@@ -1,0 +1,58 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/classify/classify",
+    "pages/personal/personal",
+    "pages/car/car",
+    "pages/logs/logs"
+  ],
+  "subPackages": [
+    {
+      "root":"packageA",
+      "name": "package1",
+      "pages": [
+        "pages/details/details",
+        "pages/coupon/coupon"
+      ]
+    }
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#F7534B",
+    "navigationBarTitleText": "果壳商铺",
+    "navigationBarTextStyle":"black"
+  
+  },
+  "tabBar": {
+    "custom": true,
+    "color": "#000000",
+    "selectedColor": "#000000",
+    "backgroundColor": "#000000",
+    "list": [{
+      "pagePath": "pages/home/home",
+      "text": "首页"
+    },
+    {
+      "pagePath": "pages/classify/classify",
+      "text": "分类"
+    },
+    { "pagePath": "pages/personal/personal",
+      "text": "个人信息"     
+    },
+    { "pagePath": "pages/car/car",
+      "text": "购物车"     
+    }]
+  },
+  
+
+  "sitemapLocation": "sitemap.json",
+  "usingComponents": {
+    "van-tabbar": "@vant/weapp/tabbar/index",
+    "van-tabbar-item": "@vant/weapp/tabbar-item/index",
+    "van-image": "@vant/weapp/image/index",
+    "van-icon": "@vant/weapp/icon/index",
+    "van-row": "@vant/weapp/row/index",
+    "van-col": "@vant/weapp/col/index",
+    "van-search": "@vant/weapp/search/index"
+  }
+}

@@ -1,0 +1,17 @@
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\bin\Debug\net6.0\Furion.EntityFrameworkCore.Migration.deps.json
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\bin\Debug\net6.0\Furion.EntityFrameworkCore.Migration.dll
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\bin\Debug\net6.0\Furion.EntityFrameworkCore.Migration.pdb
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\bin\Debug\net6.0\Furion.Core.dll
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\bin\Debug\net6.0\Furion.EntitFramework.Core.dll
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\bin\Debug\net6.0\Furion.EntitFramework.Core.pdb
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\bin\Debug\net6.0\Furion.Core.pdb
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\obj\Debug\net6.0\Furion.EntityFrameworkCore.Migration.csproj.AssemblyReference.cache
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\obj\Debug\net6.0\Furion.EntityFrameworkCore.Migration.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\obj\Debug\net6.0\Furion.EntityFrameworkCore.Migration.AssemblyInfoInputs.cache
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\obj\Debug\net6.0\Furion.EntityFrameworkCore.Migration.AssemblyInfo.cs
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\obj\Debug\net6.0\Furion.EntityFrameworkCore.Migration.csproj.CoreCompileInputs.cache
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\obj\Debug\net6.0\Furion.EntityFrameworkCore.Migration.csproj.CopyComplete
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\obj\Debug\net6.0\Furion.EntityFrameworkCore.Migration.dll
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\obj\Debug\net6.0\refint\Furion.EntityFrameworkCore.Migration.dll
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\obj\Debug\net6.0\Furion.EntityFrameworkCore.Migration.pdb
+D:\.net\Furion\Furion.EntityFrameworkCore.Migration\obj\Debug\net6.0\ref\Furion.EntityFrameworkCore.Migration.dll

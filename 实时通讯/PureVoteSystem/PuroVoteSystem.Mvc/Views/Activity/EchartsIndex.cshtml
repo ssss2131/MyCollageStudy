@@ -1,0 +1,67 @@
+﻿@{
+    var id = ViewBag.id.ToString();
+}
+
+<div id="main" style="width: auto;height:400px;"></div>
+<script src="~/js/echarts.js"></script>
+<script src="~/js/axios.js"></script>
+<script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart = echarts.init(document.getElementById('main'));
+
+    // 指定图表的配置项和数据
+    var option = {
+    title: {
+        text: '投票数量'
+    },
+    tooltip: {},
+    legend: {
+        data: ['票数']
+    },
+    xAxis: {
+        data: ['用户1', '用户2', '用户3', '用户4', '用户5', '用户6']
+    },
+    yAxis: {},
+    series: [
+        {
+        name: '票数',
+        type: 'bar',
+        data: [5, 20, 36, 10, 10, 20]
+        }
+    ]
+    };
+
+    // 使用刚指定的配置项和数据显示图表。
+    myChart.setOption(option);
+
+function axiosRequest() 
+{
+    axios.get('http://localhost:5263/activity/EchartsVoteActivity?actId= @id')
+  .then(function (response) {
+      var list = [];
+      var number = [];
+      var mydata = response.data;
+      //option.xAxis.data
+      for (var i = 0; i < mydata.length; i++) 
+      {
+        list.push(mydata[i].userName);
+        number.push(mydata[i].voteNumber);
+        console.log(number[i]);
+      }
+      option.xAxis.data = list;
+      option.series[0].data = number;
+      myChart.setOption(option);
+
+  })
+  .catch(function (error) {
+    console.log(error);
+  });
+}
+
+ 
+
+setInterval(axiosRequest, 1000);
+
+</script>
+
+

@@ -1,0 +1,5 @@
+/* about/about/about.wxss */
+.myPic{
+  width: 200rpx;
+  height: 200rpx;
+}

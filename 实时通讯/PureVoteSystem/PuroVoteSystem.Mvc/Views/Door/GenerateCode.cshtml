@@ -1,0 +1,8 @@
+﻿@{
+    var email = ViewBag.Email.ToString();
+}
+
+<h1>Code已经发入您的邮箱</h1>
+
+
+<a class="btn btn-primary" asp-action="NewPassword" asp-route-email="@email">前往修改密码</a>

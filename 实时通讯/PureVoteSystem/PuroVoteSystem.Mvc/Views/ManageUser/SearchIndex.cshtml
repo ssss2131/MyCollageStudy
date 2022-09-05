@@ -1,0 +1,10 @@
+﻿@model SearchViewModel
+@using PuroVoteSystem.Mvc.Models.BackDto.SearchModel
+<form asp-action="SearchUserByName">
+    <input asp-for="@Model.UserName"/>
+    <span asp-validation-for="@Model.UserName" class="text-danger"></span>
+    <button type="submit">搜 索</button>
+</form>
+
+
+ 

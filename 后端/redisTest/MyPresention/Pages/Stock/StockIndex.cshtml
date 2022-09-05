@@ -1,0 +1,36 @@
+﻿@page
+@model MyPresention.Pages.Stock.StockIndexModel
+@{
+   
+} <a href="~/Index">跳转</a>
+<table class="table table-hover">
+  
+    <thead>
+        <th>BookName</th>
+        <th>Author</th>
+        <th>Count</th>
+        <th>Isbn</th>
+    </thead>
+    @foreach(var item in Model.models)
+    {  <tr>
+        <td>@item.bookName</td>
+        <td>@item.authorId</td>
+        <td>@item.count</td>
+        <td>@item.isbn</td>
+        <td>
+            
+            <form  asp-page="/Stock/stockIndex" enctype="multipart/form-data" method="post">
+                 <label>新增数量
+                 </label><input value="" name="number" type="number"/>
+                 <input name="stockId" value="@item.id" hidden/>
+                 <button class="button btn-primary" type="submit">新增</button>
+            </form>
+           
+           
+        </td>
+       
+        </tr>
+    }
+    
+</table>
+

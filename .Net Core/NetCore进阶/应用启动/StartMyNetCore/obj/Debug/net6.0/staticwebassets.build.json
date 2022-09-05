@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "cVTdvmmDskagOMWCSOhkvlrXZABI950QpgtoePq0iRg=",
+  "Source": "StartMyNetCore",
+  "BasePath": "_content/StartMyNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StartMyNetCore\\wwwroot",
+      "Source": "StartMyNetCore",
+      "ContentRoot": "D:\\.net\\.Net Core\\应用启动\\startmynetcore\\wwwroot\\",
+      "BasePath": "_content/StartMyNetCore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

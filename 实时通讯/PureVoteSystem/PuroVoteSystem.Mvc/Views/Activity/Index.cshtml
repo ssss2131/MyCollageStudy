@@ -1,0 +1,69 @@
+﻿@model IEnumerable<PuroVoteSystem.Mvc.Models.ActivityDto.ActivityIndexViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+
+    var count = Model.Count();
+    var line = 3;
+    int row = count / 3;
+    var counter = 0;
+    var id = 1;
+    int add()
+    {
+        return id++;
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+ 
+
+ <div class="myCon" style="width:100%;height:auto;display:flex;flex-wrap:wrap">  
+
+
+    
+ 
+@foreach (var item in Model) 
+{
+        if (item.IsShow)
+        {
+            <div class="card" style="width:calc(33.3% - 100px);margin:50px; " >
+                <img style="width:100%" src="~/Image/DefaultAvator/default.jpg" class="card-img-top" alt="..." id="card_@add()" onmouseover="inFun(this)" onmouseout="outFun(this)">
+                        <div class="card-body">
+                        <h5 class="card-title">@item.Title</h5>
+                        <p class="card-text">@item.Content</p>
+                        <a  asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">Details</a>
+                        </div>
+            </div> 
+                if(++counter>=line)
+                {
+                    <hr />
+                    counter = 0;
+                }
+            }
+    }
+ 
+</div>
+           
+@section Scripts{
+    <script>
+    function inFun(value) {
+        console.log(value)
+        var id = '#' + value.id;
+        console.log(id);
+        //value.style.width = "25rem"; 
+        //$(id).animate({width:"400px"})
+        $(id).animate({width:'130%'});
+    }
+    function outFun(value) {  
+        //value.style.width = "100%";
+        var id = '#' + value.id;
+         $(id).animate({width:'100%'}) ;
+    }
+       
+    </script>
+}  
+ 

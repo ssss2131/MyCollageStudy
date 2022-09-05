@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box{
+            width: 100px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        R:<input type="text" v-model.number="r" /><hr>
+        G:<input type="text" v-model.number ="g" /><hr>
+        B:<input type="text" v-model.number="b" /><hr>
+
+        <!-- 差值表达式不能用于属性节点 只能用于内容节点 -->
+        <!-- v-bind:属性 为属性绑定值 -->
+        <!-- ` ` 模板字符串 可以使用占位符(c#中的""" """相似但是用``) -->
+        <!-- 难以复用 所以要用计算属性 -->
+
+        <!-- {backgroundColor:rgb} {}代表是一个style对象 -->
+        <div class="box" :style="{backgroundColor:rgb}"></div>
+        <hr>
+    </div>
+    <script src="./lib/vue.js"></script>
+    <script>
+        const vm = new Vue({
+            el:"#app",
+            data:{
+                r:0,
+                g:0,
+                b:0
+            },
+            computed:{
+                rgb(){        
+                   return `rgb(${this.r},${this.g},${this.b})`
+                }              
+            }
+        })
+
+    </script>
+    
+
+</body>
+</html>

@@ -1,0 +1,56 @@
+/* #app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+} */
+#app{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.router-active{
+  background-color: beige;
+  font-weight: bold;
+  color: blue;
+}
+.menu{
+  margin-left: -200px; 
+  background-color: lightblue;
+  width:10%;
+  height: auto;
+  justify-content: start;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: stretch;
+  display: flex;
+}
+.container{
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.routeView{
+   
+  width:90%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+
+}

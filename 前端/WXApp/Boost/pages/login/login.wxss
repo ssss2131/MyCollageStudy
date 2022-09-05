@@ -1,0 +1,32 @@
+.myBtn{
+  width: 50rpx;
+  height: 100rpx;
+  background-color: aqua;
+  border-radius: 25rpx;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 300rpx;
+  height: 100%;
+}
+.container2
+{ 
+  display: flex;
+  flex-direction: row;
+  width: 600rpx;
+  height: 100%;
+
+}
+.BigContainer{
+  width: 600rpx;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+
+}
+page{
+  height: 100%;  
+ 
+}
+ 

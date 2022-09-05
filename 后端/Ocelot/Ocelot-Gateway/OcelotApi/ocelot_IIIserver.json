@@ -1,0 +1,20 @@
+{
+    "Routes": [
+      {
+        "DownstreamPathTemplate": "/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [         
+          {
+            "Host":"localhost", 
+            "Port":5261    
+          }
+        ],
+        "UpstreamPathTemplate": "/{everything}",
+        "UpstreamHttpMethod": [ "Get", "Post" ],
+        "LoadBalancerOptions": {
+          "Type": "RoundRobin"         
+        }
+        
+      }
+    ]
+  }

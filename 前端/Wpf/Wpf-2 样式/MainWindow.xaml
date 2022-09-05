@@ -1,0 +1,35 @@
+﻿<Window x:Class="Wpf样式.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf样式"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <!--使用注意-->
+        <!--标签节点上的属性优先与Style中定义的值
+        标签节点对象上的StaticResource [value] value一定要对应 TargetType中定义的值
+        BasedOn继承基类的属性(公共属性)-->
+        
+        
+        <Style x:Key="BaseStyle" TargetType="Button">
+            <Setter Property="FontSize" Value="18"></Setter>
+            <Setter Property="FontFamily" Value="微软雅黑"></Setter>
+        </Style>
+        <Style x:Key="ButtonStyle" TargetType="Button" BasedOn="{StaticResource BaseStyle}">
+            <Setter Property="FontSize" Value="18"></Setter>
+            <Setter Property="Background" Value="Blue"></Setter>
+            <Setter Property="Foreground" Value="White"></Setter>
+            <Setter Property="Content" Value="Button"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel>
+            <Button Style="{StaticResource ButtonStyle}"></Button>
+            <Button Style="{StaticResource ButtonStyle}" Content="Button2"></Button>
+        </StackPanel>
+        
+
+    </Grid>
+</Window>

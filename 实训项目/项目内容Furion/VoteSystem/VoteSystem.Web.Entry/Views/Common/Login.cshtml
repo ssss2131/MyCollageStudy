@@ -1,0 +1,10 @@
+﻿@model LoginViewModel
+
+<form asp-action="Login">
+    <label>用户名:</label>
+    <input asp-for="@Model.UserName"/>
+    <hr />
+    <label>密码:</label>
+    <input asp-for="@Model.Password"/>
+    <button type="submit">提交</button>
+</form>

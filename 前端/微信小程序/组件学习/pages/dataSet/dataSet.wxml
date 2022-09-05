@@ -1,0 +1,2 @@
+<button bindtap="btnTap">{{mydata}}</button>
+<input type="number" bindinput="iptIn" value="{{iptData}}"/>

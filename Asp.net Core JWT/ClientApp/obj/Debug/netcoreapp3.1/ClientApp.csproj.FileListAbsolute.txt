@@ -1,0 +1,14 @@
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.exe
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.deps.json
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.runtimeconfig.json
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.runtimeconfig.dev.json
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.dll
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.pdb
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.csproj.AssemblyReference.cache
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.AssemblyInfoInputs.cache
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.AssemblyInfo.cs
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.csproj.CoreCompileInputs.cache
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.dll
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.pdb
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\WebAPI.Gateway认证\ClientApp\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.genruntimeconfig.cache

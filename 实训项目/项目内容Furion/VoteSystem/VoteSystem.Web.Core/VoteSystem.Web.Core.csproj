@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+	  <!--<OutputType>Exe</OutputType>-->
+    <NoWarn>1701;1702;1591</NoWarn>
+    <DocumentationFile>VoteSystem.Web.Core.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="VoteSystem.Web.Core.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VoteSystem.Application\VoteSystem.Application.csproj" />
+    <ProjectReference Include="..\VoteSystem.Database.Migrations\VoteSystem.Database.Migrations.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="JwtHanlder\" />
+  </ItemGroup>
+
+</Project>

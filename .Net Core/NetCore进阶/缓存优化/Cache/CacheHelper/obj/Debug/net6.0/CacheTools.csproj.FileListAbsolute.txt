@@ -1,0 +1,12 @@
+D:\.net\.Net Core\缓存优化\Cache\CacheHelper\obj\Debug\net6.0\CacheTools.csproj.AssemblyReference.cache
+D:\.net\.Net Core\缓存优化\Cache\CacheHelper\obj\Debug\net6.0\CacheTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\.Net Core\缓存优化\Cache\CacheHelper\obj\Debug\net6.0\CacheTools.AssemblyInfoInputs.cache
+D:\.net\.Net Core\缓存优化\Cache\CacheHelper\obj\Debug\net6.0\CacheTools.AssemblyInfo.cs
+D:\.net\.Net Core\缓存优化\Cache\CacheHelper\obj\Debug\net6.0\CacheTools.csproj.CoreCompileInputs.cache
+D:\.net\.Net Core\缓存优化\Cache\CacheHelper\bin\Debug\net6.0\CacheTools.deps.json
+D:\.net\.Net Core\缓存优化\Cache\CacheHelper\bin\Debug\net6.0\CacheTools.dll
+D:\.net\.Net Core\缓存优化\Cache\CacheHelper\bin\Debug\net6.0\CacheTools.pdb
+D:\.net\.Net Core\缓存优化\Cache\CacheHelper\obj\Debug\net6.0\CacheTools.dll
+D:\.net\.Net Core\缓存优化\Cache\CacheHelper\obj\Debug\net6.0\refint\CacheTools.dll
+D:\.net\.Net Core\缓存优化\Cache\CacheHelper\obj\Debug\net6.0\CacheTools.pdb
+D:\.net\.Net Core\缓存优化\Cache\CacheHelper\obj\Debug\net6.0\ref\CacheTools.dll

@@ -1,0 +1,78 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <CopyRefAssembliesToPublishDirectory>true</CopyRefAssembliesToPublishDirectory>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  
+    <CopyRefAssembliesToPublishDirectory>true</CopyRefAssembliesToPublishDirectory>
+</PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Areas\_Admin\Views\ActionLog\BatchDelete.cshtml" />
+    <None Include="Areas\_Admin\Views\ActionLog\Details.cshtml" />
+    <None Include="Areas\_Admin\Views\ActionLog\Index.cshtml" />
+    <None Include="Areas\_Admin\Views\DataPrivilege\Create.cshtml" />
+    <None Include="Areas\_Admin\Views\DataPrivilege\Edit.cshtml" />
+    <None Include="Areas\_Admin\Views\DataPrivilege\Index.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkGroup\BatchDelete.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkGroup\Create.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkGroup\DataFunction.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkGroup\Delete.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkGroup\Edit.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkGroup\Import.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkGroup\Index.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkMenu\Create.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkMenu\Delete.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkMenu\Details.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkMenu\Edit.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkMenu\Index.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkMenu\UnsetPages.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkRole\BatchDelete.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkRole\Create.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkRole\Delete.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkRole\Details.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkRole\Edit.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkRole\Import.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkRole\Index.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkRole\PageFunction.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkTenant\BatchDelete.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkTenant\BatchEdit.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkTenant\Create.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkTenant\Delete.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkTenant\Details.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkTenant\Edit.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkTenant\Import.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkTenant\Index.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkUser\BatchDelete.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkUser\BatchEdit.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkUser\Create.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkUser\Delete.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkUser\Details.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkUser\Edit.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkUser\Import.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkUser\Index.cshtml" />
+    <None Include="Areas\_Admin\Views\FrameworkUser\Password.cshtml" />
+    <None Include="Areas\_Admin\Views\_ViewImports.cshtml" />
+  </ItemGroup>
+
+
+
+
+  <ItemGroup>
+    <PackageReference Include="WalkingTec.Mvvm.TagHelpers.LayUI" Version="6.2.5" />
+    <PackageReference Include="WalkingTec.Mvvm.Mvc" Version="6.2.5" />
+</ItemGroup>
+
+  <ItemGroup>
+   <ProjectReference Include="..\WTM.VoteSystem.Model\WTM.VoteSystem.Model.csproj" />
+    <ProjectReference Include="..\WTM.VoteSystem.DataAccess\WTM.VoteSystem.DataAccess.csproj" />
+    <ProjectReference Include="..\WTM.VoteSystem.ViewModel\WTM.VoteSystem.ViewModel.csproj" />
+ </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\_Admin\ViewModels\" />
+  </ItemGroup>
+</Project>
+
+

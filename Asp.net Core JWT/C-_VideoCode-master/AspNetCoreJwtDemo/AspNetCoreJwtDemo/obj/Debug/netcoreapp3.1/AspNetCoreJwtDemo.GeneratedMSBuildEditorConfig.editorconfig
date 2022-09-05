@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AspNetCoreJwtDemo
+build_property.ProjectDir = d:\.net\Asp.net Core JWT\C-_VideoCode-master\AspNetCoreJwtDemo\AspNetCoreJwtDemo\

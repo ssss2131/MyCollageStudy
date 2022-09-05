@@ -1,0 +1,15 @@
+D:\.net\redisTest\Presntation.Domain\bin\Debug\net6.0\Presntation.Domain.deps.json
+D:\.net\redisTest\Presntation.Domain\bin\Debug\net6.0\Presntation.Domain.dll
+D:\.net\redisTest\Presntation.Domain\bin\Debug\net6.0\Presntation.Domain.pdb
+D:\.net\redisTest\Presntation.Domain\bin\Debug\net6.0\HelloRedis.dll
+D:\.net\redisTest\Presntation.Domain\bin\Debug\net6.0\HelloRedis.pdb
+D:\.net\redisTest\Presntation.Domain\obj\Debug\net6.0\Presntation.Domain.csproj.AssemblyReference.cache
+D:\.net\redisTest\Presntation.Domain\obj\Debug\net6.0\Presntation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\redisTest\Presntation.Domain\obj\Debug\net6.0\Presntation.Domain.AssemblyInfoInputs.cache
+D:\.net\redisTest\Presntation.Domain\obj\Debug\net6.0\Presntation.Domain.AssemblyInfo.cs
+D:\.net\redisTest\Presntation.Domain\obj\Debug\net6.0\Presntation.Domain.csproj.CoreCompileInputs.cache
+D:\.net\redisTest\Presntation.Domain\obj\Debug\net6.0\Presntation.Domain.csproj.CopyComplete
+D:\.net\redisTest\Presntation.Domain\obj\Debug\net6.0\Presntation.Domain.dll
+D:\.net\redisTest\Presntation.Domain\obj\Debug\net6.0\refint\Presntation.Domain.dll
+D:\.net\redisTest\Presntation.Domain\obj\Debug\net6.0\Presntation.Domain.pdb
+D:\.net\redisTest\Presntation.Domain\obj\Debug\net6.0\ref\Presntation.Domain.dll

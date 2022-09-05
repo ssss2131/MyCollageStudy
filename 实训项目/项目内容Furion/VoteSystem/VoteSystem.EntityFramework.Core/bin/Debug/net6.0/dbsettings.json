@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "SqlLiteConnect": "Data Source=./Furion.db",
+    "VoteSystem": "Server=LAPTOP-RU9O3P7Q\\MYSQL;Database=Furion;User=sa;Password=03012447;MultipleActiveResultSets=True;"
+  }
+}

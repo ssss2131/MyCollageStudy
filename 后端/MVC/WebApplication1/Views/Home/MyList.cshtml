@@ -1,0 +1,17 @@
+﻿@model IList<int>
+ 
+@for (var i = 0; i < Model.Count(); i++)
+{
+    <h1>@i</h1>
+    <button class="btn-danger"  onclick= "myfun(@i)" >删除</button>
+}
+
+@section Scripts{
+    <script>
+    function myfun(value) {
+
+        
+
+    }
+    </script>
+}

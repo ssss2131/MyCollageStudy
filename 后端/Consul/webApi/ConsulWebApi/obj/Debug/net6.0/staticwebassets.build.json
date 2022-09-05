@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SQS0R/4m566+zsGcq36aI+9ly57T2jJu9THAadFjAgQ=",
+  "Source": "ConsulWebApi",
+  "BasePath": "_content/ConsulWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

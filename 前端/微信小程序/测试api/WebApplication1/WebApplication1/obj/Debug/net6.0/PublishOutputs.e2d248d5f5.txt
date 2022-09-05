@@ -1,0 +1,11 @@
+D:\.net\前端\微信小程序\测试api\WebApplication1\WebApplication1\wxBackMe\WebApplication1.exe
+D:\.net\前端\微信小程序\测试api\WebApplication1\WebApplication1\wxBackMe\appsettings.Development.json
+D:\.net\前端\微信小程序\测试api\WebApplication1\WebApplication1\wxBackMe\appsettings.json
+D:\.net\前端\微信小程序\测试api\WebApplication1\WebApplication1\wxBackMe\WebApplication1.dll
+D:\.net\前端\微信小程序\测试api\WebApplication1\WebApplication1\wxBackMe\WebApplication1.deps.json
+D:\.net\前端\微信小程序\测试api\WebApplication1\WebApplication1\wxBackMe\WebApplication1.runtimeconfig.json
+D:\.net\前端\微信小程序\测试api\WebApplication1\WebApplication1\wxBackMe\WebApplication1.pdb
+D:\.net\前端\微信小程序\测试api\WebApplication1\WebApplication1\wxBackMe\Microsoft.OpenApi.dll
+D:\.net\前端\微信小程序\测试api\WebApplication1\WebApplication1\wxBackMe\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net\前端\微信小程序\测试api\WebApplication1\WebApplication1\wxBackMe\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net\前端\微信小程序\测试api\WebApplication1\WebApplication1\wxBackMe\Swashbuckle.AspNetCore.SwaggerUI.dll

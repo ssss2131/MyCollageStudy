@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TestWebAPI.DataAccessor
+build_property.ProjectDir = D:\.net\Asp.net Core JWT\WebAPI1\TestWebAPI.DataAccessor\

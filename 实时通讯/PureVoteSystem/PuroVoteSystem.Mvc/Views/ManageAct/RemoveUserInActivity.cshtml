@@ -1,0 +1,49 @@
+﻿@model IEnumerable<PureVoteSystem.Model.SystemUser>
+
+@{
+    ViewData["Title"] = "RemoveUserInActivity";
+    var actId = ViewBag.actId.ToString();
+}
+
+<h1>RemoveUserInActivity</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+ 
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Photo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Account)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+ 
+            <td>
+                @Html.ActionLink("退赛", "RemoveUserInAct", new {  userId=item.Id,actId = actId   }) | 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

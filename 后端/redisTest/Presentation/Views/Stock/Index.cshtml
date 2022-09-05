@@ -1,0 +1,47 @@
+﻿@using System.Text.Json
+
+@inject IHttpClientFactory m_httpClient
+@{
+    
+    List<StockViewModel> stockViewModels = new List<StockViewModel>();
+
+    async Task OnGet()
+    {
+        var response = await m_httpClient.CreateClient().GetAsync("https://localhost:7130/api/Stock/Index");
+        if (response != null)
+        {
+            string result = await response.Content.ReadAsStringAsync();
+            Console.WriteLine(result);
+            List<StockViewModel> stocks = JsonSerializer.Deserialize<List<StockViewModel>>(result);
+            
+        }
+    }
+      
+    
+
+}
+<h1><a asp-action="PurchaseNewBook">采购新图书</a></h1>
+<table class="table table-hover">
+  
+    @foreach(var item in Model)
+    {  <tr>
+        <td>@item.bookName</td>
+        <td>@item.authorId</td>
+        <td>@item.count</td>
+        <td>@item.isbn</td>
+        <td>
+            
+            <form asp-controller="Stock" asp-action="PurchaseBookInStock" method="post">
+                 <label>新增数量</label><input value="" name="number" type="number"/>
+                 <input name="stockId" value="@item.Id" hidden/>
+                 <button class="button btn-primary" type="submit">新增</button>
+            </form>
+           
+           
+        </td>
+        </tr>
+    }
+    
+</table>
+
+

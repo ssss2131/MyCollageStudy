@@ -1,0 +1,12 @@
+﻿@{
+    var userName = ViewData["userName"].ToString();
+}
+
+@*<a asp-action="VerifyEmail" asp-route-userName="@userName">点击我们将向您注册的邮箱发送一条信息</a>*@
+<form asp-action="VerifyEmail" asp-route-userName="@userName">
+    <h1>尊敬的 @userName 用户</h1>
+    <h2>请确认你的邮箱</h2>
+    <hr />
+    <input name="userName" value="@userName" readonly/>
+    <button type="submit">发送</button>
+</form>

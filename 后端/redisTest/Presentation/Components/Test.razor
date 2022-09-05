@@ -1,0 +1,14 @@
+﻿<h3>Counter</h3>
+<label>Counter:@Counter</label>
+<button onclick="@Increase">Increase</button>
+
+@code {
+    [Parameter]
+    public int Counter { get; set; }
+  
+    
+    void Increase()
+    {
+        Counter++;
+    }
+}

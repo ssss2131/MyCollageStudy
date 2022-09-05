@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3smo19TyN/PyLjpMkPJGQoa1l5Hro904ROIhmVWB23M=",
+  "Source": "JwtServer",
+  "BasePath": "_content/JwtServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

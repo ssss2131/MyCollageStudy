@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "MBfpK0E3YBfNuOgbKaNe4WZ6NUo4/RXVAcoKnGlAEoE=",
+  "Source": "VoteSystem.Web.Entry",
+  "BasePath": "_content/VoteSystem.Web.Entry",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VoteSystem.Web.Entry\\wwwroot",
+      "Source": "VoteSystem.Web.Entry",
+      "ContentRoot": "D:\\.net\\实训项目\\项目内容Furion\\VoteSystem\\VoteSystem.Web.Entry\\wwwroot\\",
+      "BasePath": "_content/VoteSystem.Web.Entry",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\.net\\实训项目\\项目内容Furion\\VoteSystem\\VoteSystem.Web.Entry\\wwwroot\\images\\logo.png",
+      "SourceId": "VoteSystem.Web.Entry",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net\\实训项目\\项目内容Furion\\VoteSystem\\VoteSystem.Web.Entry\\wwwroot\\",
+      "BasePath": "_content/VoteSystem.Web.Entry",
+      "RelativePath": "images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    }
+  ]
+}

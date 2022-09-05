@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "98iJIxcYPnRSs5VeaiMyfPOj7TAwJrB1PFmZsa9Bccg=",
+  "Source": "FurionStart",
+  "BasePath": "_content/FurionStart",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FurionStart\\wwwroot",
+      "Source": "FurionStart",
+      "ContentRoot": "D:\\.net\\Furion\\FurionStart\\wwwroot\\",
+      "BasePath": "_content/FurionStart",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\.net\\Furion\\FurionStart\\wwwroot\\file\\1.jpg",
+      "SourceId": "FurionStart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net\\Furion\\FurionStart\\wwwroot\\",
+      "BasePath": "_content/FurionStart",
+      "RelativePath": "file/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\file\\1.jpg"
+    }
+  ]
+}

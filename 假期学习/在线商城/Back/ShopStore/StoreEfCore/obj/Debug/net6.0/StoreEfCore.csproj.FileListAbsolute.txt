@@ -1,0 +1,17 @@
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\bin\Debug\net6.0\StoreEfCore.deps.json
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\bin\Debug\net6.0\StoreEfCore.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\bin\Debug\net6.0\StoreEfCore.pdb
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\bin\Debug\net6.0\ShopStoreCore.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\bin\Debug\net6.0\ShopStoreCore.pdb
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\obj\Debug\net6.0\StoreEfCore.csproj.AssemblyReference.cache
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\obj\Debug\net6.0\StoreEfCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\obj\Debug\net6.0\StoreEfCore.AssemblyInfoInputs.cache
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\obj\Debug\net6.0\StoreEfCore.AssemblyInfo.cs
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\obj\Debug\net6.0\StoreEfCore.csproj.CoreCompileInputs.cache
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\obj\Debug\net6.0\StoreEfCore.csproj.CopyComplete
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\obj\Debug\net6.0\StoreEfCore.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\obj\Debug\net6.0\refint\StoreEfCore.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\obj\Debug\net6.0\StoreEfCore.pdb
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\obj\Debug\net6.0\ref\StoreEfCore.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\bin\Debug\net6.0\StoreEfCore.runtimeconfig.json
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreEfCore\obj\Debug\net6.0\StoreEfCore.genruntimeconfig.cache

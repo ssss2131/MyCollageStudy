@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyTodoApp</id>
+    <version>1.0.0</version>
+    <authors>MyTodoApp</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="MyTodo.Shared" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="MaterialDesignThemes" version="4.5.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="Prism.DryIoc" version="8.1.97" exclude="Build,Analyzers" />
+        <dependency id="RestSharp" version="108.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Debug\net5.0-windows\MyTodoApp.runtimeconfig.json" target="lib\net5.0-windows7.0\MyTodoApp.runtimeconfig.json" />
+    <file src="D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Debug\net5.0-windows\MyTodoApp.dll" target="lib\net5.0-windows7.0\MyTodoApp.dll" />
+  </files>
+</package>

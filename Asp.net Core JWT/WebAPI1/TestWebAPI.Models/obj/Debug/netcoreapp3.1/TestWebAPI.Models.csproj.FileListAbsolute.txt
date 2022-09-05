@@ -1,0 +1,10 @@
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.Models\bin\Debug\netcoreapp3.1\TestWebAPI.Models.deps.json
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.Models\bin\Debug\netcoreapp3.1\TestWebAPI.Models.dll
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.Models\bin\Debug\netcoreapp3.1\TestWebAPI.Models.pdb
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.Models\obj\Debug\netcoreapp3.1\TestWebAPI.Models.csproj.AssemblyReference.cache
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.Models\obj\Debug\netcoreapp3.1\TestWebAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.Models\obj\Debug\netcoreapp3.1\TestWebAPI.Models.AssemblyInfoInputs.cache
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.Models\obj\Debug\netcoreapp3.1\TestWebAPI.Models.AssemblyInfo.cs
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.Models\obj\Debug\netcoreapp3.1\TestWebAPI.Models.csproj.CoreCompileInputs.cache
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.Models\obj\Debug\netcoreapp3.1\TestWebAPI.Models.dll
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.Models\obj\Debug\netcoreapp3.1\TestWebAPI.Models.pdb

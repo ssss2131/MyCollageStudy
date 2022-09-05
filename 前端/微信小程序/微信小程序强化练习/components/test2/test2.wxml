@@ -1,0 +1,7 @@
+<view>
+  
+  <button type="primary" bindtap="addData">点击</button>
+  <text>{{myData}}</text>
+  <text>{{reciveData}}</text>
+  <button bindtap="send">sendData</button>
+</view>

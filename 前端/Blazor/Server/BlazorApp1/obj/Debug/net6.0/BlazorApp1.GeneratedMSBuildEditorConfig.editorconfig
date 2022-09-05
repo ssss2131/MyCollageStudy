@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorApp1
+build_property.RootNamespace = BlazorApp1
+build_property.ProjectDir = D:\.net\前端\Blazor\Server\BlazorApp1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\.net\前端\Blazor\Server\BlazorApp1
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/MyComponents/MyTable.razor]
+build_metadata.AdditionalFiles.TargetPath = TXlDb21wb25lbnRzXE15VGFibGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/MyComponents/RendenPart.razor]
+build_metadata.AdditionalFiles.TargetPath = TXlDb21wb25lbnRzXFJlbmRlblBhcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/Pages/MyTable/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlUYWJsZVxEZWxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/Pages/MyTable/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlUYWJsZVxEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/Pages/MyTable/Update.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlUYWJsZVxVcGRhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-45rkf8v3vv
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-b5wscdn8ts
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/前端/Blazor/Server/BlazorApp1/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

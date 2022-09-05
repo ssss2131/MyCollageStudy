@@ -1,0 +1,12 @@
+D:\.net\redisTest\HelloRedis\bin\Debug\net6.0\HelloRedis.deps.json
+D:\.net\redisTest\HelloRedis\bin\Debug\net6.0\HelloRedis.dll
+D:\.net\redisTest\HelloRedis\bin\Debug\net6.0\HelloRedis.pdb
+D:\.net\redisTest\HelloRedis\obj\Debug\net6.0\HelloRedis.csproj.AssemblyReference.cache
+D:\.net\redisTest\HelloRedis\obj\Debug\net6.0\HelloRedis.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\redisTest\HelloRedis\obj\Debug\net6.0\HelloRedis.AssemblyInfoInputs.cache
+D:\.net\redisTest\HelloRedis\obj\Debug\net6.0\HelloRedis.AssemblyInfo.cs
+D:\.net\redisTest\HelloRedis\obj\Debug\net6.0\HelloRedis.csproj.CoreCompileInputs.cache
+D:\.net\redisTest\HelloRedis\obj\Debug\net6.0\HelloRedis.dll
+D:\.net\redisTest\HelloRedis\obj\Debug\net6.0\refint\HelloRedis.dll
+D:\.net\redisTest\HelloRedis\obj\Debug\net6.0\HelloRedis.pdb
+D:\.net\redisTest\HelloRedis\obj\Debug\net6.0\ref\HelloRedis.dll

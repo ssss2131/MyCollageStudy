@@ -1,0 +1,12 @@
+﻿
+<div style="width:500px;height:400px;background-color:gray" class="card-body">
+<form asp-action="index" asp-controller="home" class="mb-9">
+    <label class="form-label"  class="form-control">用户名:</label>
+    <input name="userName" type="text" class="form-control"/><br />
+    <label class="form-label">密码</label>
+    <input name="password" type="password"  class="form-control"/>
+    <br />
+    <button type="submit" class="btn btn-primary">登录</button>
+</form>
+<a asp-action="register" asp-controller="home">注册账号</a>
+</div>

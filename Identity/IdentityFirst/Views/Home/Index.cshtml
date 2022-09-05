@@ -1,0 +1,22 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using IdentityFirst.Data.MyModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+@inject SignInManager<MyUser> SignInManager
+@{
+    if (SignInManager.IsSignedIn(User))
+    {
+        <div>  
+            <a asp-action="SignOut"><h1>登出</h1></a>
+        </div>
+    }
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+

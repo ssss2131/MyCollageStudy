@@ -1,0 +1,58 @@
+﻿@model IEnumerable<PuroVoteSystem.Mvc.Models.ActivityDto.UserInfoViewModel>
+
+@{
+    ViewData["Title"] = "Vote";
+ 
+}
+
+<h1>Vote</h1>
+
+ 
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ActivityId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ActivityName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ActivityId)
+            </td>
+            <th>
+                @Html.DisplayNameFor(model => model.ActivityName)
+            </th>
+            <td onclick="return confirm('确认投票')==true?true:false ">              
+                @Html.ActionLink("VoteForU", "VoteForU", new {  id=item.UserId,actId=item.ActivityId  }) |
+            </td>
+        </tr>
+}           
+    </tbody>
+</table>
+<script>
+function test() {
+    if (confirm('确认投票？')) {
+        alert('投票成功')
+    }    
+}
+
+</script>

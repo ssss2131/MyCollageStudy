@@ -1,0 +1,7 @@
+{
+  "usingComponents": {  
+    "mp-col": "/components/@miniprogram-component-plus/col/miniprogram_dist/index",
+    "mp-row": "/components/@miniprogram-component-plus/row/miniprogram_dist/index"
+ 
+  }
+}

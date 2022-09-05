@@ -1,0 +1,14 @@
+<!-- <button class="myBtn">这是一个按钮</button> -->
+
+<view class="BigContainer">
+ 
+  <!-- <view class="container2">
+    <view style="width: 50rpx;height:auto;background-color: chartreuse;"></view>
+    <view style="width: 50rpx;height:auto;background-color: blue;"></view>
+    <view style="width: 50rpx;height:auto;background-color: red;"></view>
+  </view> -->
+
+    <text></text>
+    <text></text>
+    <text></text>
+ </view>

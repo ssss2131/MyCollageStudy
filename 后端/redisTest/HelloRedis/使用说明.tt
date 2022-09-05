@@ -1,0 +1,4 @@
+﻿
+1、修改Domain>>AppDbContext 中 OnConfiguring中的连接串
+
+2、修改RedisHelper ConnectionString

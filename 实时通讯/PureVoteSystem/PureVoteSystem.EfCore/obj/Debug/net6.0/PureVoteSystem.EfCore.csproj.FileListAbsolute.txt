@@ -1,0 +1,15 @@
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\bin\Debug\net6.0\PureVoteSystem.EfCore.deps.json
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\bin\Debug\net6.0\PureVoteSystem.EfCore.dll
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\bin\Debug\net6.0\PureVoteSystem.EfCore.pdb
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\bin\Debug\net6.0\PureVoteSystem.Model.dll
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\bin\Debug\net6.0\PureVoteSystem.Model.pdb
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\obj\Debug\net6.0\PureVoteSystem.EfCore.csproj.AssemblyReference.cache
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\obj\Debug\net6.0\PureVoteSystem.EfCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\obj\Debug\net6.0\PureVoteSystem.EfCore.AssemblyInfoInputs.cache
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\obj\Debug\net6.0\PureVoteSystem.EfCore.AssemblyInfo.cs
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\obj\Debug\net6.0\PureVoteSystem.EfCore.csproj.CoreCompileInputs.cache
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\obj\Debug\net6.0\PureVoteSystem.EfCore.csproj.CopyComplete
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\obj\Debug\net6.0\PureVoteSystem.EfCore.dll
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\obj\Debug\net6.0\refint\PureVoteSystem.EfCore.dll
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\obj\Debug\net6.0\PureVoteSystem.EfCore.pdb
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.EfCore\obj\Debug\net6.0\ref\PureVoteSystem.EfCore.dll

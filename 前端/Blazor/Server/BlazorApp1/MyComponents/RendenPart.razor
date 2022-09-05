@@ -1,0 +1,12 @@
+﻿@page "/MyComponent/RendenPart"
+<h3>RendenPart</h3>
+
+<h1>@ChildContent</h1>
+
+@code {
+
+    [Parameter]
+    public RenderFragment<IHttpContextAccessor>? ChildContent { get; set; }
+
+    
+}

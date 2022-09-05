@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WebAPI.Gateway
+build_property.ProjectDir = D:\.net\Asp.net Core JWT\WebAPI.Gateway\

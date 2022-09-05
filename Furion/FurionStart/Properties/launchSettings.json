@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FurionStart": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:11763;http://localhost:11764"
+    }
+  }
+}

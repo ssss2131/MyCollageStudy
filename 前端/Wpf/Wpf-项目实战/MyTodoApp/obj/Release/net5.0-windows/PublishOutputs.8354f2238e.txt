@@ -1,0 +1,16 @@
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\MyTodoApp.exe
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\MyTodoApp.dll
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\MyTodoApp.deps.json
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\MyTodoApp.runtimeconfig.json
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\MyTodoApp.pdb
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\DryIoc.dll
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\MaterialDesignColors.dll
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\MaterialDesignThemes.Wpf.dll
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\Microsoft.Xaml.Behaviors.dll
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\Newtonsoft.Json.dll
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\Prism.dll
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\Prism.DryIoc.Wpf.dll
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\Prism.Wpf.dll
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\RestSharp.dll
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\MyTodo.Shared.dll
+D:\.net\前端\Wpf\Wpf-项目实战\MyTodoApp\bin\Release\net5.0-windows\publish\MyTodo.Shared.pdb

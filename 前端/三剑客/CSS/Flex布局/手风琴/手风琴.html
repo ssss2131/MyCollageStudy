@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>手风琴</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            /* 盒子模型
+                盒子 :外边距<内边距 <边框大小<内容区域
+                默认
+                    content-box 内容盒子
+                        宽度与高度就是内容区域的宽度与高度
+                    border-box 边框盒子
+                        宽度高度包括内边距 <边框大小<内容区域 因此内容区域会被挤压
+                    替换元素
+                    <iframe></iframe>
+                    <img/>
+                    <video></video>
+                类型 
+                    inline-box
+                    grid
+                    flex
+                外边距塌陷
+                    设置height或者inlineheight padding border bfc可以解决 
+                    出现:相邻盒子 或是 父子盒子
+                    影响:
+                        边距会放在父盒子外面 子盒子与父盒子则不会出现
+                        若外边距都是正数 则为最大值
+                        若都是正数且相等 则随机取一个值
+                        若都是负数则取最小值
+                        若有正数有负数 则取最大正数加上最小负数
+                    */
+        }
+        body{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color:#333 ;
+        }
+        .warp{
+            display: flex;
+            width: 90vw;
+        }
+        .card{
+            background-size: auto 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            border-radius: 50px;
+            flex:0.5;
+            color: #fff;
+            cursor: pointer;
+            height: 80vh;
+            position: relative;
+            margin: 10px;
+            transition:flex 0.7s cubic-bezier(0.05,0.6,0.4,0.9);
+        }
+        .card h2{
+            font-size: 20px;
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            margin:0;
+            transition: opcity 0s ease-in 0s;
+        }
+        .card.active{
+            flex:5
+        }
+        .card.active h3{
+            opacity: 1;
+            transition: opcity 0.3 ease-in 0.4s;
+        }
+        @media (max-width:500px){
+            .warp{
+                width: 100vw;
+            }
+            .card:nth-child(4)
+            {
+                display: none;
+            }
+            
+            .card:nth-child(5)
+            {
+                display: none;
+            }
+        }
+      
+    </style>
+</head>
+<body>
+    <div class="warp" style="width: 1000px;">
+        <div class="card" style="background-image: url(imgs/xp1.jpg);">
+            <h1>Milk</h1>
+        </div>
+        <div class="card" style="background-image: url(imgs/xp2.png);">
+            <h1>Milk</h1>
+        </div>
+        <div class="card" style="background-image: url(imgs/xp3.png);">
+            <h1>Milk</h1>
+        </div>
+        <div class="card" style="background-image: url(imgs/xp4.png);">
+            <h1>Milk</h1>
+        </div>
+        <div class="card" style="background-image: url(imgs/xp5.png);">
+            <h1>Milk</h1>
+        </div>
+    </div>
+    <script>
+      var warp = document.querySelector(".warp");
+      var cards = warp.querySelectorAll(".card");
+      console.log(cards)
+      cards.forEach(c=>{
+        c.addEventListener('mouseover',()=>{
+            cards.forEach(c=>{
+                c.className="card"
+            })
+            c.className="card active"
+        }) 
+         
+      })
+    </script>
+</body>
+</html>

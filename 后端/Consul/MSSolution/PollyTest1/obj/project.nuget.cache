@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3b6oq9jJSH7+jxTs+T7trfXsNlQ9Q2o4W5F9R8BHugyuqafrFdXWsxYuJnE/ttv4XVbTPNmRe4otme0VN/5dKg==",
+  "success": true,
+  "projectFilePath": "D:\\.net\\后端\\Consul\\MSSolution\\PollyTest1\\PollyTest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

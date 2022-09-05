@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Wpf-3 控件模板/1.0.0": {
+        "runtime": {
+          "Wpf-3 控件模板.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wpf-3 控件模板/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

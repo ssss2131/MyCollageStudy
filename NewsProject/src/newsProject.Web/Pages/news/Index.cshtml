@@ -1,0 +1,20 @@
+@page
+@using newsProject.Web.Pages.news;
+@model IndexModel;
+@using Microsoft.Extensions.Localization
+@using newsProject.Localization
+@inject IStringLocalizer<newsProjectResource> L
+@section scripts
+{
+    <abp-script src="/Pages/news/Index.js" />
+}
+<h2>News</h2>
+<abp-card>
+    <abp-card-header>
+        <h2>@L["News"]</h2>
+    </abp-card-header>
+    <abp-card-body>
+        <abp-table striped-rows="true" id="NewsTable"></abp-table>
+    </abp-card-body>
+</abp-card>
+

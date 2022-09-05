@@ -1,0 +1,25 @@
+﻿@{
+    var GroupName = ViewBag.ActId.ToString();
+    var userName = User.Identity.Name;
+}
+
+<h1>欢迎加入聊天室</h1>
+<lable>用户名</lable><input value="@userName" disabled id="userInput"/>
+<label>聊天室编号</label><input value="@GroupName" disabled id="group-name"/>
+<button id="join-group">进入聊天室</button>
+<div id="myChatRoom" style="width:500px;height:auto;background-color:aquamarine;display:none;">
+   @*<lable>消息</lable><input type="text" id="messageInput"/>*@
+    <textarea class="form-control" id="messageInput" rows="3" placeholder="在此处发送消息"></textarea>
+   
+    <button id="sendButton">发送消息</button>
+    <button id="outRoomButton">退出聊天室</button>
+    
+</div>
+ 
+
+
+
+
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/groupChat.js"></script>
+ 

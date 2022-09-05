@@ -1,0 +1,6 @@
+<my-test1 id="test1">
+  <h1>hello</h1>
+</my-test1>
+
+<my-test2  reciveData="{{pageData}}" bind:mySend="getFromChild"></my-test2>
+<button bindtap="test">test</button>

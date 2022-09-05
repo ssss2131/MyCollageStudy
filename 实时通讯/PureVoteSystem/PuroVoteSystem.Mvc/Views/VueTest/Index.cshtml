@@ -1,0 +1,33 @@
+﻿<h1>Vue测试页面???</h1>
+
+<div id="app">
+    <div>
+      {{ message }}
+      <el-popover
+        placement="top-start"
+        title="标题"
+        width="200"
+        trigger="hover"
+        content="这是一段内容,这是一段内容,这是一段内容,这是一段内容。">
+        <el-button slot="reference">hover 激活</el-button>
+      </el-popover>
+        <el-button type="info">信息按钮</el-button>
+   </div>
+</div>
+
+
+
+
+@section Scripts{
+    <script>
+         var app = new Vue({
+              el: '#app',
+              data: {
+                message: 'Hello Vue!'
+              }
+            })
+    </script>
+
+
+}
+ 

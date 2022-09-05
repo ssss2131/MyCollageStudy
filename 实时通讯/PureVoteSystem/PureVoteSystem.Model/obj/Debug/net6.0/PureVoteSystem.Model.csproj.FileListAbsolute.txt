@@ -1,0 +1,14 @@
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\bin\Debug\net6.0\PureVoteSystem.Model.deps.json
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\bin\Debug\net6.0\PureVoteSystem.Model.runtimeconfig.json
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\bin\Debug\net6.0\PureVoteSystem.Model.dll
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\bin\Debug\net6.0\PureVoteSystem.Model.pdb
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\obj\Debug\net6.0\PureVoteSystem.Model.csproj.AssemblyReference.cache
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\obj\Debug\net6.0\PureVoteSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\obj\Debug\net6.0\PureVoteSystem.Model.AssemblyInfoInputs.cache
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\obj\Debug\net6.0\PureVoteSystem.Model.AssemblyInfo.cs
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\obj\Debug\net6.0\PureVoteSystem.Model.csproj.CoreCompileInputs.cache
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\obj\Debug\net6.0\PureVoteSystem.Model.dll
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\obj\Debug\net6.0\refint\PureVoteSystem.Model.dll
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\obj\Debug\net6.0\PureVoteSystem.Model.pdb
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\obj\Debug\net6.0\PureVoteSystem.Model.genruntimeconfig.cache
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystem.Model\obj\Debug\net6.0\ref\PureVoteSystem.Model.dll

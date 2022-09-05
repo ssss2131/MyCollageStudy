@@ -1,0 +1,35 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/myIndex/myIndex",
+    "pages/logs/logs",
+    "pages/myScrollView/myScrollView",
+    "pages/swiper/swiper",
+    "pages/dataSet/dataSet"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "MyWXAPP",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#000000",
+    "onReachBottomDistance": 50
+  
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "list": [
+      {
+      "pagePath": "pages/index/index",
+      "text": "index"
+      },
+      {
+        "pagePath": "pages/myIndex/myIndex",
+        "text": "text"
+      }]
+  }
+ 
+  
+}

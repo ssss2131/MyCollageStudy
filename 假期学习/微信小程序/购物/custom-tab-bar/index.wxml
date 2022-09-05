@@ -1,0 +1,4 @@
+<van-tabbar active="{{active}}" bind:change="onChange">
+  <van-tabbar-item wx:for="{{menus}}" wx:key="id" icon="{{item.icon}}" info="{{item.info>0?item.info:''}}">{{item.text}}</van-tabbar-item>
+</van-tabbar>
+ 

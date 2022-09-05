@@ -1,0 +1,15 @@
+D:\.net\后端\JWT\Invoker\bin\Debug\net6.0\Invoker.exe
+D:\.net\后端\JWT\Invoker\bin\Debug\net6.0\Invoker.deps.json
+D:\.net\后端\JWT\Invoker\bin\Debug\net6.0\Invoker.runtimeconfig.json
+D:\.net\后端\JWT\Invoker\bin\Debug\net6.0\Invoker.dll
+D:\.net\后端\JWT\Invoker\bin\Debug\net6.0\Invoker.pdb
+D:\.net\后端\JWT\Invoker\obj\Debug\net6.0\Invoker.csproj.AssemblyReference.cache
+D:\.net\后端\JWT\Invoker\obj\Debug\net6.0\Invoker.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\后端\JWT\Invoker\obj\Debug\net6.0\Invoker.AssemblyInfoInputs.cache
+D:\.net\后端\JWT\Invoker\obj\Debug\net6.0\Invoker.AssemblyInfo.cs
+D:\.net\后端\JWT\Invoker\obj\Debug\net6.0\Invoker.csproj.CoreCompileInputs.cache
+D:\.net\后端\JWT\Invoker\obj\Debug\net6.0\Invoker.dll
+D:\.net\后端\JWT\Invoker\obj\Debug\net6.0\refint\Invoker.dll
+D:\.net\后端\JWT\Invoker\obj\Debug\net6.0\Invoker.pdb
+D:\.net\后端\JWT\Invoker\obj\Debug\net6.0\Invoker.genruntimeconfig.cache
+D:\.net\后端\JWT\Invoker\obj\Debug\net6.0\ref\Invoker.dll

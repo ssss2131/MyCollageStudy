@@ -1,0 +1,8 @@
+/* pages/classify/classify.wxss */
+.container{
+  width: auto;
+  height: 90%;
+  background-color: lightblue;
+  display: flex;
+  flex-direction: row;
+}

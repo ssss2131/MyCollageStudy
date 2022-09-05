@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8S6cbJ5pMCFxv/EpHZF1Qe1gkRa2teq8EYYCFPK77We9Dpij1h8fNAThspB6ukD9Uxe389pnoIfUEeuU0JPiIg==",
+  "success": true,
+  "projectFilePath": "D:\\.net\\FluentEmail\\fluentEmail\\fluentEmail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentemail.smtp\\3.0.2\\fluentemail.smtp.3.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

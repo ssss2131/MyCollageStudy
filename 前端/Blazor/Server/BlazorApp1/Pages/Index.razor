@@ -1,0 +1,19 @@
+﻿@page "/"
+@using BlazorApp1.MyComponents
+
+<PageTitle>Index</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+<BlazorApp1.MyComponents.MyTable  @bind-TableName="MyTable"></BlazorApp1.MyComponents.MyTable>
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+<RendenPart>
+    ????
+</RendenPart>
+
+<input @bind="MyTable"/>
+@code{
+    public string? MyTable { get; set; }
+}

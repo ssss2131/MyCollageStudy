@@ -1,0 +1,105 @@
+/* packageA/pages/details/details.wxss */
+page{
+  --backColor--:lightgray
+}
+
+.header{
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  background-color: var(--backColor--);
+}
+ 
+.PImgs{
+  height: 30%;
+  background-color: aqua;
+  display: block;
+  text-align: center;
+}
+.card{
+  display: flex;
+  flex-direction: column;
+  margin: 20rpx 20rpx;
+  width: auto;
+  height: auto;
+  background-color: var(--color--);
+  border-radius: 20rpx;
+}
+.card .card-price{
+  font-size:30px ;
+  font-weight: bold;
+  color: red;
+}
+.tags{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.tags .tag{
+  margin: 10rpx;
+  padding: 5rpx 20rpx;
+  width: auto;
+  background-color: lightcoral;
+  color: red;
+  border-radius: 10rpx;
+}
+/* .store{
+  margin: 10rpx;
+  padding: 5rpx 15rpx;
+  background-color: red;
+  color: aliceblue;
+  border-radius: 40rpx;
+} */
+.showCoupon{
+  margin-left: 170rpx;
+}
+.under{
+  padding:0rpx 20rpx;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.under .monthSell{
+  font-size: 30rpx;
+  color:gray
+}
+.container{
+  height: auto;
+  width: 100%;
+  background-color: var(--backColor--);
+
+}
+.card .title{
+  margin-top: 5rpx;
+  margin-left: 60rpx; 
+}
+.operation{
+  margin-top: 50rpx;
+  margin-bottom: 20rpx;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.card .card-row{
+  display: flex;
+  flex-direction: column;
+  padding: 20rpx;
+}
+.card .van-row{
+  padding: 10rpx;
+ 
+} 
+.card-row-img{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  height: auto;
+}

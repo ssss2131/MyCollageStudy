@@ -1,0 +1,23 @@
+﻿@{
+    var times = Environment.TickCount64;
+    string now = "nihao";
+    Timer timer = new Timer(Say);
+    timer.Change(1000, 1000) ;
+ 
+    void Say(object? e)
+    {
+        Func<string> func = GetString;
+        now = DateTime.Now.ToString();
+        Console.WriteLine( "hellp");
+    }
+
+    string GetString()
+    {
+        now = "nihao2";
+        return now;
+    }
+}
+<h1>@times</h1>
+<h1>@now</h1>
+
+

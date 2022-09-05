@@ -1,0 +1,276 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WTM.VoteSystem
+build_property.RootNamespace = WTM.VoteSystem
+build_property.ProjectDir = D:\.net\实训项目\WTM\WTM.VoteSystem\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\.net\实训项目\WTM\WTM.VoteSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/AreaActivity/Views/SystemActivity/BatchDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJlYUFjdGl2aXR5XFZpZXdzXFN5c3RlbUFjdGl2aXR5XEJhdGNoRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/AreaActivity/Views/SystemActivity/BatchEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJlYUFjdGl2aXR5XFZpZXdzXFN5c3RlbUFjdGl2aXR5XEJhdGNoRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/AreaActivity/Views/SystemActivity/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJlYUFjdGl2aXR5XFZpZXdzXFN5c3RlbUFjdGl2aXR5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/AreaActivity/Views/SystemActivity/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJlYUFjdGl2aXR5XFZpZXdzXFN5c3RlbUFjdGl2aXR5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/AreaActivity/Views/SystemActivity/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJlYUFjdGl2aXR5XFZpZXdzXFN5c3RlbUFjdGl2aXR5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/AreaActivity/Views/SystemActivity/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJlYUFjdGl2aXR5XFZpZXdzXFN5c3RlbUFjdGl2aXR5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/AreaActivity/Views/SystemActivity/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJlYUFjdGl2aXR5XFZpZXdzXFN5c3RlbUFjdGl2aXR5XEltcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/AreaActivity/Views/SystemActivity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJlYUFjdGl2aXR5XFZpZXdzXFN5c3RlbUFjdGl2aXR5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/ActionLog/BatchDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEFjdGlvbkxvZ1xCYXRjaERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/ActionLog/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEFjdGlvbkxvZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/ActionLog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEFjdGlvbkxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/DataPrivilege/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXERhdGFQcml2aWxlZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/DataPrivilege/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXERhdGFQcml2aWxlZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/DataPrivilege/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXERhdGFQcml2aWxlZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkGroup/BatchDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya0dyb3VwXEJhdGNoRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkGroup/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya0dyb3VwXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkGroup/DataFunction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya0dyb3VwXERhdGFGdW5jdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkGroup/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya0dyb3VwXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkGroup/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya0dyb3VwXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkGroup/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya0dyb3VwXEltcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkGroup/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya0dyb3VwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkMenu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya01lbnVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkMenu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya01lbnVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkMenu/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya01lbnVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkMenu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya01lbnVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkMenu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya01lbnVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkMenu/UnsetPages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya01lbnVcVW5zZXRQYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkRole/BatchDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1JvbGVcQmF0Y2hEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkRole/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1JvbGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkRole/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1JvbGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkRole/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1JvbGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkRole/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1JvbGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkRole/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1JvbGVcSW1wb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkRole/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1JvbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkRole/PageFunction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1JvbGVcUGFnZUZ1bmN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkTenant/BatchDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1RlbmFudFxCYXRjaERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkTenant/BatchEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1RlbmFudFxCYXRjaEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkTenant/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1RlbmFudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkTenant/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1RlbmFudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkTenant/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1RlbmFudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkTenant/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1RlbmFudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkTenant/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1RlbmFudFxJbXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkTenant/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1RlbmFudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkUser/BatchDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1VzZXJcQmF0Y2hEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkUser/BatchEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1VzZXJcQmF0Y2hFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkUser/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1VzZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkUser/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1VzZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkUser/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1VzZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkUser/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1VzZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkUser/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1VzZXJcSW1wb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkUser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1VzZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/FrameworkUser/Password.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXEZyYW1ld29ya1VzZXJcUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX0FkbWluXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Areas/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Views/Home/FrontPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGcm9udFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Views/Home/FrontPage.en.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGcm9udFBhZ2UuZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Views/Home/Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Views/Home/PIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Views/Login/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Views/Login/Reg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实训项目/WTM/WTM.VoteSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

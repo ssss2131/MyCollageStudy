@@ -1,0 +1,14 @@
+<!--components/test/test.wxml-->
+<view>
+ 
+  <text>这玩意是组件</text>
+  <input type="text" bindinput="input"/>
+  <hr/>
+  <text>{{first}}</text>
+  <view>
+    <slot></slot>
+  </view>
+
+ 
+ 
+</view>

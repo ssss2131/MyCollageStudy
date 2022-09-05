@@ -1,0 +1,17 @@
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\bin\Debug\net6.0\Repository.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\bin\Debug\net6.0\Repository.pdb
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\bin\Debug\net6.0\ShopStoreCore.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\bin\Debug\net6.0\StoreEfCore.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\bin\Debug\net6.0\StoreEfCore.pdb
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\bin\Debug\net6.0\ShopStoreCore.pdb
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\obj\Debug\net6.0\Repository.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\obj\Debug\net6.0\Repository.pdb
+D:\.net\假期学习\在线商城\Back\ShopStore\Repository\obj\Debug\net6.0\ref\Repository.dll

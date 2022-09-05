@@ -1,0 +1,6 @@
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystemWebApi\obj\Debug\net6.0\PureVoteSystemWebApi.csproj.AssemblyReference.cache
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystemWebApi\obj\Debug\net6.0\PureVoteSystemWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystemWebApi\obj\Debug\net6.0\PureVoteSystemWebApi.AssemblyInfoInputs.cache
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystemWebApi\obj\Debug\net6.0\PureVoteSystemWebApi.AssemblyInfo.cs
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystemWebApi\obj\Debug\net6.0\PureVoteSystemWebApi.csproj.CoreCompileInputs.cache
+D:\.net\实时通讯\PureVoteSystem\PureVoteSystemWebApi\obj\Debug\net6.0\PureVoteSystemWebApi.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,17 @@
+﻿@model WTM.VoteSystem.ViewModel.AreaActivity.SystemActivityVMs.SystemActivityVM
+@inject IStringLocalizer<Program> Localizer;
+
+<wt:form vm="@Model">
+<wt:row items-per-row="ItemsPerRowEnum.Two">
+<wt:display field="Entity.Title" />
+<wt:display field="Entity.Content" />
+<wt:display field="Entity.EachVoteNumber" />
+<wt:display field="Entity.PhotoId" />
+<wt:display field="Entity.WhoSend" />
+<wt:display field="Entity.WhenStart" />
+<wt:display field="Entity.WhenEnd" />
+</wt:row>
+    <wt:row align="AlignEnum.Right">
+        <wt:closebutton />
+    </wt:row>
+</wt:form>

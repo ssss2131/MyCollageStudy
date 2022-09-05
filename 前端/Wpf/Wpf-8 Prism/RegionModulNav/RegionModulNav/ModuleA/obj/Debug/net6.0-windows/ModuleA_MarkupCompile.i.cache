@@ -1,0 +1,20 @@
+﻿ModuleA
+1.0.0.0
+
+library
+C#
+.cs
+D:\.net\前端\Wpf\Wpf-8 Prism\RegionModulNav\RegionModulNav\ModuleA\obj\Debug\net6.0-windows\
+ModuleA
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+
+3-1470857625
+
+9270360641
+197-517074962
+Views\ViewA.xaml;Views\ViewB.xaml;Views\ViewC.xaml;
+
+True
+

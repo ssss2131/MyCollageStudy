@@ -1,0 +1,53 @@
+﻿@model IEnumerable<PuroVoteSystem.Mvc.Models.BackDto.ActivityManage.CandidateManagerDto>
+
+@{
+    ViewData["Title"] = "AddUserInActivity";
+
+    var actId = ViewBag.actId;
+ 
+}
+
+<h1>比赛标题:@ViewBag.myTitle</h1>
+
+ 
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IsShow)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsShow)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            <td>
+                @Html.ActionLink("参赛", "AddUserInAct", new {  userId=item.UserId,actId= actId  }) |         
+            </td>
+            <td>
+                @Html.ActionLink("退赛","RemoveUserInAct",new {useerId=item.UserId,actId=actId})
+            </td>
+            <td>
+                 @Html.ActionLink("Details","UserDetail","ManageUser",new {userId = item.UserId})
+            </td>
+             
+        </tr>
+}
+    </tbody>
+</table>

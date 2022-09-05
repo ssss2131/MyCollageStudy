@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uh0mJJvlrZsss5QvAcicxBg9yRvvQzxPGxFp+jgjP3jg/q5WJ/YAdFOKW8X9M2S/OubjDroFXBBOGDE4VQ0ALw==",
+  "success": true,
+  "projectFilePath": "D:\\.net\\RabbitMQ\\RabbitMQComsumer3\\RabbitMQComsumer3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\rabbitmq.client\\6.3.0\\rabbitmq.client.6.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

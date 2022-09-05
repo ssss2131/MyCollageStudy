@@ -1,0 +1,36 @@
+<view class="wxSearch">
+  <van-search placeholder="请输入搜索关键词"  background="#F7534B" shape="round"/>
+</view>
+<view class="container">
+  <scroll-view scroll-y="true" style="height: 90%;width: 20%; ">
+    <van-sidebar active-key="{{ activeKey }}">
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+      <van-sidebar-item title="标签名" />
+    </van-sidebar>
+  </scroll-view>
+  <view>
+   <scroll-view scroll-y="true">
+    <text>123</text>
+   </scroll-view>
+  </view>
+ 
+</view>

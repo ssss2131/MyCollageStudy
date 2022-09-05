@@ -1,0 +1,32 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/test/test"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "组件",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "usingComponents": {
+    "my-test1":"./components/test/test"
+  },
+ 
+  "tabBar": {
+    
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "组件"
+      
+    }, {
+      "pagePath": "pages/logs/logs",
+      "text": "接口"
+    }]
+  } 
+    
+   
+}

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "StartMyNetCore": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:20394;http://localhost:20395"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+﻿@using System.Security.Claims
+@model PuroVoteSystem.Mvc.Models.BackDto.ActivityManage.ActivityAddDto
+
+@{
+    ViewData["Title"] = "AddAct";
+    var email = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Email).Value;
+}
+
+<h1>AddAct</h1>
+
+<h4>ActivityAddDto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddAct">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Content" class="control-label"></label>
+                <input asp-for="Content" class="form-control" />
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EachVoteNumber" class="control-label"></label>
+                <input asp-for="EachVoteNumber" class="form-control" />
+                <span asp-validation-for="EachVoteNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Photo" class="control-label"></label>
+                <input asp-for="Photo" name="myFile" class="form-control" type="file"/>
+                <input asp-for="Photo" value ="default.jpg"class="form-control" hidden/>
+                <span asp-validation-for="Photo" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="WhoSend" class="control-label"></label>
+                <input asp-for="WhoSend" value="@email" class="form-control" />
+                <span asp-validation-for="WhoSend" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WhenStart" class="control-label"></label>
+                <input asp-for="WhenStart" class="form-control" />
+                <span asp-validation-for="WhenStart" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WhenEnd" class="control-label"></label>
+                <input asp-for="WhenEnd" class="form-control" />
+                <span asp-validation-for="WhenEnd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

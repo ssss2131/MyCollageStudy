@@ -1,0 +1,13 @@
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.DataAccessor\bin\Debug\netcoreapp3.1\TestWebAPI.DataAccessor.deps.json
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.DataAccessor\bin\Debug\netcoreapp3.1\TestWebAPI.DataAccessor.dll
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.DataAccessor\bin\Debug\netcoreapp3.1\TestWebAPI.DataAccessor.pdb
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.DataAccessor\bin\Debug\netcoreapp3.1\TestWebAPI.Models.dll
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.DataAccessor\bin\Debug\netcoreapp3.1\TestWebAPI.Models.pdb
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.DataAccessor\obj\Debug\netcoreapp3.1\TestWebAPI.DataAccessor.csproj.AssemblyReference.cache
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.DataAccessor\obj\Debug\netcoreapp3.1\TestWebAPI.DataAccessor.GeneratedMSBuildEditorConfig.editorconfig
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.DataAccessor\obj\Debug\netcoreapp3.1\TestWebAPI.DataAccessor.AssemblyInfoInputs.cache
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.DataAccessor\obj\Debug\netcoreapp3.1\TestWebAPI.DataAccessor.AssemblyInfo.cs
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.DataAccessor\obj\Debug\netcoreapp3.1\TestWebAPI.DataAccessor.csproj.CoreCompileInputs.cache
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.DataAccessor\obj\Debug\netcoreapp3.1\TestWebAPI.DataAccessor.csproj.CopyComplete
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.DataAccessor\obj\Debug\netcoreapp3.1\TestWebAPI.DataAccessor.dll
+E:\工程学院\1. 软件学院\2021-2022学年\第二学期\02 软件开发新技术\资源\课堂练习\TestWebAPI.DataAccessor\obj\Debug\netcoreapp3.1\TestWebAPI.DataAccessor.pdb

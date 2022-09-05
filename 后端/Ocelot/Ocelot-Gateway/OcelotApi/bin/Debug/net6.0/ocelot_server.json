@@ -1,0 +1,35 @@
+{
+    "Routes": [
+      {
+        "DownstreamPathTemplate": "/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "localhost",
+            "Port": 5256
+          },
+          {
+            "Host":"localhost", 
+            "Port":5296    
+          },
+          {
+            "Host":"localhost", 
+            "Port":5261    
+          }
+        ],
+        "UpstreamPathTemplate": "/{everything}",
+        "UpstreamHttpMethod": [ "Get", "Post" ],
+        "LoadBalancerOptions": {
+          "Type": "RoundRobin"         
+        }
+        
+      }
+    ],
+    "GlobalConfiguration": {
+      "ServiceDiscoveryProvider": {
+          "Host": "localhost",
+          "Port": 8500,
+          "ConfigurationKey": "Oceolot_A"
+      }
+  }
+  }

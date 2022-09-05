@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32519.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfRelation", "EfRelation\EfRelation.csproj", "{AD48B216-5FAF-4C34-9260-AADE0F0403B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD48B216-5FAF-4C34-9260-AADE0F0403B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD48B216-5FAF-4C34-9260-AADE0F0403B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD48B216-5FAF-4C34-9260-AADE0F0403B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD48B216-5FAF-4C34-9260-AADE0F0403B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD654336-2BF1-4CF5-A27A-8ABF8D013C89}
+	EndGlobalSection
+EndGlobal

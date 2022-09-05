@@ -1,0 +1,88 @@
+﻿@model PureVoteSystem.Model.SystemActivity
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    @*<h4>SystemActivity</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Content)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Content)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.EachVoteNumber)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EachVoteNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Photo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Photo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.WhoSend)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.WhoSend)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.WhenStart)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.WhenStart)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.WhenEnd)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.WhenEnd)
+        </dd>
+    </dl>*@
+</div>
+
+<div style="display:flex;flex-wrap:wrap">
+<img src="/Image/DefaultAvator/@Model.Photo" class="img-fluid" style="max-width: 50%;height:auto" alt="...">
+ 
+<div class="card" style="width: 18rem;">
+  <div class="card-header">
+    @Html.DisplayNameFor(model => model.Title)
+  </div>
+   <div class="card-body">
+    <h5 class="card-title">活动内容</h5>
+    <p class="card-text">@Model.Content</p>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">活动规则:每个人限制投票 @Model.EachVoteNumber 票</li>
+    <li class="list-group-item">活动开始时间: @Model.WhenStart</li>
+    <li class="list-group-item">活动结束时间: @Model.WhenEnd</li>
+    <li class="list-group-item">活动发起人:@Model.WhoSend</li>
+  </ul>
+</div>
+<div>
+    <a class="btn btn-info" asp-action="Vote" asp-route-id="@Model.Id">投票</a>
+    <a class="btn btn-success" asp-action="EchartsIndex" asp-route-actId="@Model.Id">概况</a>
+    <a asp-action="Index" class="btn btn-warning">回到首页</a>
+    <a asp-action="ChatInAct" asp-controller="Chat" asp-route-actId="@Model.Id" class="btn btn-warning">为他拉票</a>
+</div>
+</div>

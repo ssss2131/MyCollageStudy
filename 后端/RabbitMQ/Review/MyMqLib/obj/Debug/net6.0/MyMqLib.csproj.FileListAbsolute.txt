@@ -1,0 +1,12 @@
+D:\.net\后端\RabbitMQ\Review\MyMqLib\bin\Debug\net6.0\MyMqLib.deps.json
+D:\.net\后端\RabbitMQ\Review\MyMqLib\bin\Debug\net6.0\MyMqLib.dll
+D:\.net\后端\RabbitMQ\Review\MyMqLib\bin\Debug\net6.0\MyMqLib.pdb
+D:\.net\后端\RabbitMQ\Review\MyMqLib\obj\Debug\net6.0\MyMqLib.csproj.AssemblyReference.cache
+D:\.net\后端\RabbitMQ\Review\MyMqLib\obj\Debug\net6.0\MyMqLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\后端\RabbitMQ\Review\MyMqLib\obj\Debug\net6.0\MyMqLib.AssemblyInfoInputs.cache
+D:\.net\后端\RabbitMQ\Review\MyMqLib\obj\Debug\net6.0\MyMqLib.AssemblyInfo.cs
+D:\.net\后端\RabbitMQ\Review\MyMqLib\obj\Debug\net6.0\MyMqLib.csproj.CoreCompileInputs.cache
+D:\.net\后端\RabbitMQ\Review\MyMqLib\obj\Debug\net6.0\MyMqLib.dll
+D:\.net\后端\RabbitMQ\Review\MyMqLib\obj\Debug\net6.0\refint\MyMqLib.dll
+D:\.net\后端\RabbitMQ\Review\MyMqLib\obj\Debug\net6.0\MyMqLib.pdb
+D:\.net\后端\RabbitMQ\Review\MyMqLib\obj\Debug\net6.0\ref\MyMqLib.dll

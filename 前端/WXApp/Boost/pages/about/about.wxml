@@ -1,0 +1,10 @@
+<view>
+  <text>{{title}}</text>
+</view>
+<view>
+  <text wx:for="{{myArray}}" wx:if="{{item %2>0}}">{{item}}<br/></text>
+</view>
+<view>
+  <image class="myPic" src="../../images/xp5.png"></image>
+</view>
+ 

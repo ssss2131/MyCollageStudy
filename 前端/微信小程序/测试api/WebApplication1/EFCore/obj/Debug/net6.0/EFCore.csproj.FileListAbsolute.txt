@@ -1,0 +1,14 @@
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\obj\Debug\net6.0\EFCore.csproj.AssemblyReference.cache
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\obj\Debug\net6.0\EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\obj\Debug\net6.0\EFCore.AssemblyInfoInputs.cache
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\obj\Debug\net6.0\EFCore.AssemblyInfo.cs
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\obj\Debug\net6.0\EFCore.csproj.CoreCompileInputs.cache
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\bin\Debug\net6.0\EFCore.deps.json
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\bin\Debug\net6.0\EFCore.runtimeconfig.json
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\bin\Debug\net6.0\EFCore.dll
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\bin\Debug\net6.0\EFCore.pdb
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\obj\Debug\net6.0\EFCore.dll
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\obj\Debug\net6.0\refint\EFCore.dll
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\obj\Debug\net6.0\EFCore.pdb
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\obj\Debug\net6.0\EFCore.genruntimeconfig.cache
+D:\.net\前端\微信小程序\测试api\WebApplication1\EFCore\obj\Debug\net6.0\ref\EFCore.dll

@@ -1,0 +1,48 @@
+﻿//using RabbitMQComsumer;
+
+//Console.WriteLine("Welcome to RabbitMQ Consumer!");
+////DirectAcceptExchange();
+////DirectAcceptExchangeEvent();
+//RabbitMQComsumers.DirectAcceptExchangeTask();
+////TopicAcceptExchange();
+//Console.WriteLine("按任意值，退出程序");
+//Console.ReadKey();
+
+
+
+using RabbitMQ.Client;
+
+using RabbitMQ.Client.Events;
+using System.Text;
+
+var factory = new ConnectionFactory() { HostName = "localhost" };
+using var connection = factory.CreateConnection();
+using var channel = connection.CreateModel();
+
+channel.QueueDeclare(queue: "task_queue", durable: true
+    /*This QueueDeclare change needs to be applied to both the producer and consumer code.*/
+    , exclusive: false, autoDelete: false, arguments: null);
+
+channel.BasicQos(prefetchSize: 0, prefetchCount: 1, global: false);//Fair Dispatch
+
+Console.WriteLine(" [*] Waiting for messages.");
+
+var consumer = new EventingBasicConsumer(channel);
+consumer.Received += (model, ea) =>
+{
+    byte[] body = ea.Body.ToArray();
+    var message = Encoding.UTF8.GetString(body);
+    Console.WriteLine($" [x] Received {message}");
+
+    int dots = message.Split('.').Length - 1;
+    Thread.Sleep(4000);
+
+    Console.WriteLine(" [x] Done");
+
+    // here channel could also be accessed as ((EventingBasicConsumer)sender).Model
+    channel.BasicAck(deliveryTag: ea.DeliveryTag, multiple: false);//此处防止work死亡 消息丢失问题
+};
+channel.BasicConsume(queue: "task_queue", autoAck: false, consumer: consumer);//queue要与队列声明保持一直不然会报错
+
+Console.WriteLine(" Press [enter] to exit.");
+Console.ReadLine();

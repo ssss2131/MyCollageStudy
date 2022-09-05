@@ -1,0 +1,12 @@
+D:\.net\.Net Core\缓存优化\Cache\Filters\bin\Debug\net6.0\Filters.deps.json
+D:\.net\.Net Core\缓存优化\Cache\Filters\bin\Debug\net6.0\Filters.dll
+D:\.net\.Net Core\缓存优化\Cache\Filters\bin\Debug\net6.0\Filters.pdb
+D:\.net\.Net Core\缓存优化\Cache\Filters\obj\Debug\net6.0\Filters.csproj.AssemblyReference.cache
+D:\.net\.Net Core\缓存优化\Cache\Filters\obj\Debug\net6.0\Filters.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\.Net Core\缓存优化\Cache\Filters\obj\Debug\net6.0\Filters.AssemblyInfoInputs.cache
+D:\.net\.Net Core\缓存优化\Cache\Filters\obj\Debug\net6.0\Filters.AssemblyInfo.cs
+D:\.net\.Net Core\缓存优化\Cache\Filters\obj\Debug\net6.0\Filters.csproj.CoreCompileInputs.cache
+D:\.net\.Net Core\缓存优化\Cache\Filters\obj\Debug\net6.0\Filters.dll
+D:\.net\.Net Core\缓存优化\Cache\Filters\obj\Debug\net6.0\refint\Filters.dll
+D:\.net\.Net Core\缓存优化\Cache\Filters\obj\Debug\net6.0\Filters.pdb
+D:\.net\.Net Core\缓存优化\Cache\Filters\obj\Debug\net6.0\ref\Filters.dll

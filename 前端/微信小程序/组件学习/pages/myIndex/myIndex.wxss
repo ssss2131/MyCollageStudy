@@ -1,0 +1,26 @@
+ 
+.container{
+  width: auto;
+  background-color: aqua;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.container view{
+  width: 25%;
+  height: 200rpx;
+  text-align: center;
+  line-height: 200rpx;
+}
+.container view:nth-child(1)
+{
+  background-color: skyblue;
+}
+.container view:nth-child(2)
+{
+  background-color: lightgreen;
+}
+.container view:nth-child(3)
+{
+  background-color: lightpink;
+}

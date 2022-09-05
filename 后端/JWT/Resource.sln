@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32519.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtServer", "JwtServer\JwtServer.csproj", "{E830B1B8-8F53-43DE-B2EC-29CD1986DFA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiResource", "ApiResource", "{2C8B12E0-2703-4A03-8D0E-370E6E35C1C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JwtProvider", "JwtProvider", "{9C3EA0AD-1365-4D7F-A5A1-82D717A6B1A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWebApi", "..\MyWebApi\MyWebApi.csproj", "{3B79824E-F0EF-4F0E-B0D7-55C25A62D002}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Invoker", "Invoker", "{FE9708A2-9016-4C81-A7C3-AA226A6A41B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoker", "Invoker\Invoker.csproj", "{97219DD5-3205-4CB5-8217-C0B9102649D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E830B1B8-8F53-43DE-B2EC-29CD1986DFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E830B1B8-8F53-43DE-B2EC-29CD1986DFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E830B1B8-8F53-43DE-B2EC-29CD1986DFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E830B1B8-8F53-43DE-B2EC-29CD1986DFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B79824E-F0EF-4F0E-B0D7-55C25A62D002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B79824E-F0EF-4F0E-B0D7-55C25A62D002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B79824E-F0EF-4F0E-B0D7-55C25A62D002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B79824E-F0EF-4F0E-B0D7-55C25A62D002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97219DD5-3205-4CB5-8217-C0B9102649D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97219DD5-3205-4CB5-8217-C0B9102649D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97219DD5-3205-4CB5-8217-C0B9102649D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97219DD5-3205-4CB5-8217-C0B9102649D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E830B1B8-8F53-43DE-B2EC-29CD1986DFA7} = {9C3EA0AD-1365-4D7F-A5A1-82D717A6B1A3}
+		{3B79824E-F0EF-4F0E-B0D7-55C25A62D002} = {2C8B12E0-2703-4A03-8D0E-370E6E35C1C7}
+		{97219DD5-3205-4CB5-8217-C0B9102649D4} = {FE9708A2-9016-4C81-A7C3-AA226A6A41B6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FD3BE1D-AF0B-4B83-BBF3-F08C8447A07F}
+	EndGlobalSection
+EndGlobal

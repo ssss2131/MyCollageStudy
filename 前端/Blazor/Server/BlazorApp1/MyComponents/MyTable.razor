@@ -1,0 +1,104 @@
+﻿@page "/MyTable"
+@inject NavigationManager NavigationManager
+@*@typeparam myGeneric*@
+ 
+
+<h1>@TableName</h1>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        @foreach(var item in TableHead)
+        {
+            <th>
+                @item
+            </th>
+        }
+        <th>
+            操作
+        </th>
+    </thead>
+    <tbody>
+        @foreach(var item in TableData)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Sex</td>
+                <td>@item.Say</td>
+                <td>@item.Age</td>
+                <td>                    
+                    @foreach(var itm in ButtonDict)
+                    {
+                        <a class="@itm.Value.Style" href="@itm.Value.MyHref" style="margin-left:30px">@itm.Value.Text</a>
+                    }
+                </td>
+               @* <td>
+                    <a class="btn btn-info" @onclick="(e=>MyNavigate(e))" href="MyTable/Details">查看详情</a> 
+                    <a class="btn btn-primary" href="MyTable/Update">修改信息</a> 
+                </td>*@
+            </tr>
+        }
+    </tbody>
+
+</table>
+ <input  class="form-control"  type="text" @bind="TableData[0].Age"/>
+ <h1>@BindName</h1>
+
+ <input type="date" @bind="MyTime" @bind:format="yyyy-MM-dd"/>
+<button @onclick="MyNavigate">dianji</button>
+
+@code {
+    public DateTime MyTime { get; set; } = DateTime.Now;
+
+    private string? BindName{get;set;}
+
+    [Parameter]
+    public List<string>? TableHead { get; set; }
+
+    [EditorRequired]
+    [Parameter]
+    public string? TableName { get; set; }
+
+    [Parameter]
+    public List<MockStudent>? TableData { get; set; }
+    //public Tuple<string,string,string>? MyOptoin { get; set; }
+    [Parameter]
+    public EventCallback<string> TableNameChanged { get;set; }
+    [Parameter]
+    public IDictionary<string, ButtonStyle>? ButtonDict { get; set; }
+    [Parameter]
+    public EventCallback<MouseEventArgs> OnMouseClick { get; set; }
+    protected override void OnInitialized()
+    {
+        this.TableData = new List<MockStudent>()
+        {
+            new MockStudent("张三","吃了吗？","男"){ Age=21},
+            new MockStudent("李四","吃了吗？","男"){ Age=21},
+            new MockStudent("王五","吃了吗？","男"){ Age=21},
+            new MockStudent("老六","吃了吗？","男"){ Age=21},
+        };
+
+        this.TableHead = new List<string>()
+        {
+            "姓名",
+            "性别",
+            "语言",
+            "年龄"
+        };
+        this.ButtonDict = new Dictionary<string, ButtonStyle>()
+        {
+            { "MyTable/Details",new ButtonStyle("MyTable/Details"){ Style="btn btn-info"} },
+            { "MyTable/Update",new ButtonStyle("MyTable/Update"){ Style="btn btn-primary"} },
+            { "MyTable/Delete",new ButtonStyle("MyTable/Details"){ Style="btn btn-danger"} }
+        };
+        //this.MyOptoin = new Tuple<string, string, string>("123", "13", "22");
+
+    }
+    public void MyNavigate(MouseEventArgs e)
+    {
+        Console.WriteLine(e.Type);
+        Console.WriteLine("MockNavigate");
+    }
+  
+
+
+}

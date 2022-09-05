@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VoteSystem.Application</name>
+    </assembly>
+    <members>
+        <member name="M:VoteSystem.Application.ActivityService.IService.IActivityService.PostAVoteActivity(VoteSystem.Application.VoteDto.ActivityDto.VoteActivityDto)">
+            <summary>
+            新增一个投票活动
+            </summary>
+            <param name="voteActivityDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VoteSystem.Application.ActivityService.ServiceImp.ActivityServiceImp.GetAllVoteActivity(System.Int32,System.Int32)">
+            <summary>
+            查询所有活动
+            </summary>
+            <param name="size"></param>
+            <param name="index"></param>
+            <returns></returns>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+        <member name="M:VoteSystem.Application.ActivityService.ServiceImp.ActivityServiceImp.QueryVoteActivityByTitle(System.String,System.Int32,System.Int32)">
+            <summary>
+            通过活动标题查询活动
+            </summary>
+            <param name="title"></param>
+            <param name="size"></param>
+            <param name="index"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VoteSystem.Application.ActivityService.ServiceImp.ActivityServiceImp.QueryVoteActivityByTime(System.String,System.String,System.Int32,System.Int32)">
+            <summary>
+            通过日期查询活动
+            </summary>
+            <param name="from"></param>
+            <param name="to"></param>
+            <param name="size"></param>
+            <param name="index"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VoteSystem.Application.ActivityService.ServiceImp.ActivityServiceImp.PostAVoteActivity(VoteSystem.Application.VoteDto.ActivityDto.VoteActivityDto)">
+            <summary>
+            新增一个投票活动
+            </summary>
+            <param name="voteActivityDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VoteSystem.Application.UserInfoService.CandidateService.IService.ICandidateService.QueryByAccountAsync(System.String,System.Int32,System.Int32)">
+            <summary>
+            通过账号查询候选人信息 并分页
+            </summary>
+            <param name="Account">查询条件</param>
+            <param name="size">页面大小</param>
+            <param name="index">查询的是第几页</param> 
+            <returns>指定条数的候选人</returns>
+        </member>
+        <member name="M:VoteSystem.Application.UserInfoService.CandidateService.IService.ICandidateService.QueryByNameAsync(System.String,System.Int32,System.Int32)">
+            <summary>
+            通过Name查询候选人信息 并分页
+            </summary>
+            <param name="Name"></param>
+            <param name="size"></param>
+            <param name="index"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VoteSystem.Application.UserInfoService.CandidateService.IService.ICandidateService.QueryByActivityAsync(System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>
+            通过活动查询候选人
+            </summary>
+            <param name="ActivityId"></param>
+            <param name="size"></param>
+            <param name="index"></param>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VoteSystem.Application.UserInfoService.CandidateService.IService.ICandidateService.JoinAVoteActivity(VoteSystem.Application.VoteDto.ActivityManagerDtos.ActivityManagerDto)">
+            <summary>
+            参加活动
+            </summary>
+            <param name="voteActivityDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VoteSystem.Application.UserInfoService.CandidateService.Service.CandidateServiceImp.JoinAVoteActivity(VoteSystem.Application.VoteDto.ActivityManagerDtos.ActivityManagerDto)">
+            <summary>
+            竞选人参加竞选活动
+            </summary>
+            <param name="managerDto"></param>
+            <returns></returns>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+        <member name="M:VoteSystem.Application.UserInfoService.CandidateService.Service.CandidateServiceImp.PageCandidate(System.Int32,System.Int32)">
+            <summary>
+            获取所有候选人信息
+            </summary>
+            <param name="size"></param>
+            <param name="index"></param>
+            <returns></returns>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+        <member name="M:VoteSystem.Application.UserInfoService.VoterService.Service.VoterServiceImp.PostAVote(VoteSystem.Application.VoteDto.VotersDto.VoterDto)">
+            <summary>
+            用户投票
+            </summary>
+            <param name="voterDto"></param>
+            <returns></returns>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+        <member name="M:VoteSystem.Application.VoteService.Service.UserServiceImp.UpdateUser(VoteSystem.Application.VoteDto.UserDto.UpdateUserDto)">
+            <summary>
+            修改用户基本信息
+            </summary>
+            <param name="updateUserDto"></param>
+            <returns></returns>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+        <member name="M:VoteSystem.Application.VoteService.Service.UserServiceImp.UploadFileAsync(System.Collections.Generic.List{Microsoft.AspNetCore.Http.IFormFile})">
+            <summary>
+            文件上传
+            </summary>
+            <param name="files"></param>
+            <returns></returns>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+        <member name="M:VoteSystem.Application.VoteService.Service.UserServiceImp.UploadFileAsync2(VoteSystem.Application.VoteDto.UserDto.UploadFileDto)">
+            <summary>
+            用户头像上传
+            </summary>
+            <param name="fileDto"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

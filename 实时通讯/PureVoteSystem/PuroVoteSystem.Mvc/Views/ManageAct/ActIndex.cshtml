@@ -1,0 +1,77 @@
+﻿@using System.Security.Claims
+@model IEnumerable<PuroVoteSystem.Mvc.Models.ActivityDto.ActivityIndexViewModel>
+
+@{
+    ViewData["Title"] = "ActIndex";
+    var userEmail = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Email).Value;
+   
+}
+
+<h1>ActIndex</h1>
+<a class="btn btn-primary" asp-action="SearchIndex" asp-controller="ManageUser">-->>查询</a>
+<h1>@userEmail</h1>
+<p>
+    <a asp-action="AddAct">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WhoSend)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WhenStart)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WhenEnd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsShow)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Photo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WhoSend)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WhenStart)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WhenEnd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsShow)
+            </td>
+            <td>
+                @Html.ActionLink("ActEdit", "ActEdit", new {  id=item.Id  }) |
+                @Html.ActionLink("Details", "EchartsIndex","Activity", new {  actId=item.Id  }) |
+                @Html.ActionLink("AddUserInActivity","AddUserInActivity",new{ actId= item.Id})|
+                @Html.ActionLink("RemoveUserInAct","RemoveUserInActivity",new {actId= item.Id})|
+                @Html.ActionLink("Delete", "DeleteAct", new {  id=item.Id })|
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

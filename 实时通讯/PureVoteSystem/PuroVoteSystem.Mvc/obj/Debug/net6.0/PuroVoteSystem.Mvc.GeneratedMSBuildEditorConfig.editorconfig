@@ -1,0 +1,176 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PuroVoteSystem.Mvc
+build_property.RootNamespace = PuroVoteSystem.Mvc
+build_property.ProjectDir = D:\.net\实时通讯\PureVoteSystem\PuroVoteSystem.Mvc\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\.net\实时通讯\PureVoteSystem\PuroVoteSystem.Mvc
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Activity/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Activity/EchartsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcRWNoYXJ0c0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Activity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Activity/Vote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcVm90ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Chat/ChatInAct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxDaGF0SW5BY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Deined/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVpbmVkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Door/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9vclxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Door/ChangeUserPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9vclxDaGFuZ2VVc2VyUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Door/GenerateCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9vclxHZW5lcmF0ZUNvZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Door/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9vclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Door/NewPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9vclxOZXdQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Door/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9vclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Error/EmailSenderError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcRW1haWxTZW5kZXJFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Error/NotFoundUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcTm90Rm91bmRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Error/passwordErro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JccGFzc3dvcmRFcnJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Error/VoteError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcVm90ZUVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/ManageAct/ActEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlQWN0XEFjdEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/ManageAct/ActIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlQWN0XEFjdEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/ManageAct/AddAct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlQWN0XEFkZEFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/ManageAct/AddUserInActivity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlQWN0XEFkZFVzZXJJbkFjdGl2aXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/ManageAct/RemoveUserInActivity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlQWN0XFJlbW92ZVVzZXJJbkFjdGl2aXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/ManageUser/SearchIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlVXNlclxTZWFyY2hJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/ManageUser/SearchUserByName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlVXNlclxTZWFyY2hVc2VyQnlOYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/ManageUser/UserDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlVXNlclxVc2VyRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/MyChat/ChatGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlDaGF0XENoYXRHcm91cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/MyChat/ChatIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlDaGF0XENoYXRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/MyChat/EchartIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlDaGF0XEVjaGFydEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Razor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Success/VoteSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1xWb3RlU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/UserInfo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckluZm9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/UserInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckluZm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/VueTest/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlVGVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/VueTest/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlVGVzdFxUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net/实时通讯/PureVoteSystem/PuroVoteSystem.Mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-21gom9cy8v

@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Furion.Application.Core</name>
+    </assembly>
+    <members>
+        <member name="T:Furion.Application.Core.Apis.MyApi">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Furion.Application.Core.Apis.MyApi.GetMyApi">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Furion.Application.Core.Apis.MyApi.Get">
+            <summary>
+            这是Get请求
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Furion.Application.Core.Apis.MyApi.GetSome(Furion.Application.Core.Dto.MyClass)">
+            <summary>
+            
+            </summary>
+            <param name="Myclass"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Furion.Application.Core.Apis.MyApi.Getall">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Furion.Application.Core.Apis.MyApi.GetVersion">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Furion.Application.Core.Apis.ValidateApi">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Furion.Application.Core.Apis.ValidateApi.GetException(System.Int32)">
+            <summary>
+            Oops.Oh
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Furion.Application.Core.Apis.ValidateApi.PostTestDto(Furion.Application.Core.Dto.TestDto)">
+            <summary>
+            Dto Validation
+            </summary>
+            <param name="testDto"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Furion.Web.Core.Apis.RepositoryTest.MyRepository">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Furion.Web.Core.Apis.RepositoryTest.MyRepository.#ctor(Furion.DatabaseAccessor.IRepository{Furion.Core.Model.TestSqlServer,Furion.Core.Locator.SqlServerDbContextLocator})">
+            <summary>
+            
+            </summary>
+            <param name="testRepsitory"></param>
+        </member>
+        <member name="M:Furion.Web.Core.Apis.RepositoryTest.MyRepository.CreateUser(Furion.Core.Model.TestSqlServer)">
+            <summary>
+            新增用户
+            </summary>
+            <param name="test"></param>
+        </member>
+        <member name="M:Furion.Web.Core.Apis.RepositoryTest.MyRepository.UpdateUser(Furion.Core.Model.TestSqlServer)">
+            <summary>
+            全部更新 除了Id
+            </summary>
+            <param name="test"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Furion.Web.Core.Apis.RepositoryTest.MyRepository.UpdatePart(Furion.Core.Model.TestSqlServer)">
+            <summary>
+            部分更新 只允许修改Name和DateTime属性 不是立即提交
+            </summary>
+            <param name="test"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Furion.Web.Core.Apis.RepositoryTest.MyRepository.Delete(System.Int32)">
+            <summary>
+            通过Id删除一个实体
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

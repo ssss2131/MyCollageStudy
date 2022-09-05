@@ -1,0 +1,14 @@
+/* pages/home/home.wxss */
+.wxSwiper{
+  background-color: aqua;
+  height: 350rpx;
+  overflow: hidden;
+}
+swiper{
+  width: 100%;
+  height: 100%;
+}
+swiper-item image{
+  height: 100%;
+  width: 100%;
+}

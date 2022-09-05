@@ -1,0 +1,17 @@
+D:\.net\redisTest\Infrastracture\bin\Debug\net6.0\Infrastracture.deps.json
+D:\.net\redisTest\Infrastracture\bin\Debug\net6.0\Infrastracture.dll
+D:\.net\redisTest\Infrastracture\bin\Debug\net6.0\Infrastracture.pdb
+D:\.net\redisTest\Infrastracture\bin\Debug\net6.0\HelloRedis.dll
+D:\.net\redisTest\Infrastracture\bin\Debug\net6.0\Tools.dll
+D:\.net\redisTest\Infrastracture\bin\Debug\net6.0\HelloRedis.pdb
+D:\.net\redisTest\Infrastracture\bin\Debug\net6.0\Tools.pdb
+D:\.net\redisTest\Infrastracture\obj\Debug\net6.0\Infrastracture.csproj.AssemblyReference.cache
+D:\.net\redisTest\Infrastracture\obj\Debug\net6.0\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\redisTest\Infrastracture\obj\Debug\net6.0\Infrastracture.AssemblyInfoInputs.cache
+D:\.net\redisTest\Infrastracture\obj\Debug\net6.0\Infrastracture.AssemblyInfo.cs
+D:\.net\redisTest\Infrastracture\obj\Debug\net6.0\Infrastracture.csproj.CoreCompileInputs.cache
+D:\.net\redisTest\Infrastracture\obj\Debug\net6.0\Infrastracture.csproj.CopyComplete
+D:\.net\redisTest\Infrastracture\obj\Debug\net6.0\Infrastracture.dll
+D:\.net\redisTest\Infrastracture\obj\Debug\net6.0\refint\Infrastracture.dll
+D:\.net\redisTest\Infrastracture\obj\Debug\net6.0\Infrastracture.pdb
+D:\.net\redisTest\Infrastracture\obj\Debug\net6.0\ref\Infrastracture.dll

@@ -1,0 +1,17 @@
+D:\.net\RabbitMQ\FirstRabbitMQ\bin\Debug\net6.0\FirstRabbitMQ.exe
+D:\.net\RabbitMQ\FirstRabbitMQ\bin\Debug\net6.0\FirstRabbitMQ.deps.json
+D:\.net\RabbitMQ\FirstRabbitMQ\bin\Debug\net6.0\FirstRabbitMQ.runtimeconfig.json
+D:\.net\RabbitMQ\FirstRabbitMQ\bin\Debug\net6.0\FirstRabbitMQ.dll
+D:\.net\RabbitMQ\FirstRabbitMQ\bin\Debug\net6.0\FirstRabbitMQ.pdb
+D:\.net\RabbitMQ\FirstRabbitMQ\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\.net\RabbitMQ\FirstRabbitMQ\obj\Debug\net6.0\FirstRabbitMQ.csproj.AssemblyReference.cache
+D:\.net\RabbitMQ\FirstRabbitMQ\obj\Debug\net6.0\FirstRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\RabbitMQ\FirstRabbitMQ\obj\Debug\net6.0\FirstRabbitMQ.AssemblyInfoInputs.cache
+D:\.net\RabbitMQ\FirstRabbitMQ\obj\Debug\net6.0\FirstRabbitMQ.AssemblyInfo.cs
+D:\.net\RabbitMQ\FirstRabbitMQ\obj\Debug\net6.0\FirstRabbitMQ.csproj.CoreCompileInputs.cache
+D:\.net\RabbitMQ\FirstRabbitMQ\obj\Debug\net6.0\FirstRabbitMQ.csproj.CopyComplete
+D:\.net\RabbitMQ\FirstRabbitMQ\obj\Debug\net6.0\FirstRabbitMQ.dll
+D:\.net\RabbitMQ\FirstRabbitMQ\obj\Debug\net6.0\refint\FirstRabbitMQ.dll
+D:\.net\RabbitMQ\FirstRabbitMQ\obj\Debug\net6.0\FirstRabbitMQ.pdb
+D:\.net\RabbitMQ\FirstRabbitMQ\obj\Debug\net6.0\FirstRabbitMQ.genruntimeconfig.cache
+D:\.net\RabbitMQ\FirstRabbitMQ\obj\Debug\net6.0\ref\FirstRabbitMQ.dll

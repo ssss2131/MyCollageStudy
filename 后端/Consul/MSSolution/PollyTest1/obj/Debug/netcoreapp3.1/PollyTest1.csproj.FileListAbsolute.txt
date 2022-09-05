@@ -1,0 +1,16 @@
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\bin\Debug\netcoreapp3.1\PollyTest1.exe
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\bin\Debug\netcoreapp3.1\PollyTest1.deps.json
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\bin\Debug\netcoreapp3.1\PollyTest1.runtimeconfig.json
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\bin\Debug\netcoreapp3.1\PollyTest1.runtimeconfig.dev.json
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\bin\Debug\netcoreapp3.1\PollyTest1.dll
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\bin\Debug\netcoreapp3.1\PollyTest1.pdb
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\bin\Debug\netcoreapp3.1\Polly.dll
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\obj\Debug\netcoreapp3.1\PollyTest1.csproj.AssemblyReference.cache
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\obj\Debug\netcoreapp3.1\PollyTest1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\obj\Debug\netcoreapp3.1\PollyTest1.AssemblyInfoInputs.cache
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\obj\Debug\netcoreapp3.1\PollyTest1.AssemblyInfo.cs
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\obj\Debug\netcoreapp3.1\PollyTest1.csproj.CoreCompileInputs.cache
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\obj\Debug\netcoreapp3.1\PollyTest1.csproj.CopyComplete
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\obj\Debug\netcoreapp3.1\PollyTest1.dll
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\obj\Debug\netcoreapp3.1\PollyTest1.pdb
+D:\2022-2\新技术\Project\MSSolution\PollyTest1\obj\Debug\netcoreapp3.1\PollyTest1.genruntimeconfig.cache

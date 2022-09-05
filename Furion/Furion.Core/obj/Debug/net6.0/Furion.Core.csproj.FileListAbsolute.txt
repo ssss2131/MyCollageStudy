@@ -1,0 +1,14 @@
+D:\.net\Furion\Furion.Core\bin\Debug\net6.0\Furion.Core.deps.json
+D:\.net\Furion\Furion.Core\bin\Debug\net6.0\Furion.Core.runtimeconfig.json
+D:\.net\Furion\Furion.Core\bin\Debug\net6.0\Furion.Core.dll
+D:\.net\Furion\Furion.Core\bin\Debug\net6.0\Furion.Core.pdb
+D:\.net\Furion\Furion.Core\obj\Debug\net6.0\Furion.Core.csproj.AssemblyReference.cache
+D:\.net\Furion\Furion.Core\obj\Debug\net6.0\Furion.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Furion\Furion.Core\obj\Debug\net6.0\Furion.Core.AssemblyInfoInputs.cache
+D:\.net\Furion\Furion.Core\obj\Debug\net6.0\Furion.Core.AssemblyInfo.cs
+D:\.net\Furion\Furion.Core\obj\Debug\net6.0\Furion.Core.csproj.CoreCompileInputs.cache
+D:\.net\Furion\Furion.Core\obj\Debug\net6.0\Furion.Core.dll
+D:\.net\Furion\Furion.Core\obj\Debug\net6.0\refint\Furion.Core.dll
+D:\.net\Furion\Furion.Core\obj\Debug\net6.0\Furion.Core.pdb
+D:\.net\Furion\Furion.Core\obj\Debug\net6.0\Furion.Core.genruntimeconfig.cache
+D:\.net\Furion\Furion.Core\obj\Debug\net6.0\ref\Furion.Core.dll

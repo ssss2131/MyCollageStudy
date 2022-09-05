@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@miniprogram-component-plus/col": "^1.0.0",
+    "@miniprogram-component-plus/row": "^1.0.0"
+  }
+}

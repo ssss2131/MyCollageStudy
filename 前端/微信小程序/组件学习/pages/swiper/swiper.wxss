@@ -1,0 +1,21 @@
+.container2{
+  width: 100%;
+  height: 500rpx;
+  background-color: lightgray;
+}
+.container2 swiper-item{
+  width: 100%;
+  height: 500rpx ;
+  text-align: center;
+  line-height: 500rpx;
+}
+.container2 swiper-item:nth-child(1){
+ background-color: lightgreen;
+}
+.container2 swiper-item:nth-child(2){
+  background-color: lightpink;
+}
+.container2 swiper-item:nth-child(3){
+  background-color: lightblue;
+}
+

@@ -1,0 +1,29 @@
+﻿ @model IEnumerable<ActivityIndexViewModel>
+ @using Newtonsoft.Json;
+@{
+    var test = "asdasd";
+    //var jsonObject = JsonConvert.SerializeObject(Model);
+    var item = new JsonResult(Model);
+    //foreach (var item in jsonObject)
+    //{
+    //    Console.WriteLine(item.ToString());
+    //}
+    //Console.WriteLine(jsonObject);
+}
+ 
+<div id="app">
+ <div>
+     <h1>{{messaage}}</h1>
+ </div>
+</div>
+@section Scripts{
+    <script>
+        new Vue({
+            el:"#app",
+            data: {               
+                message:@test  
+            } 
+        })
+        
+    </script>
+}

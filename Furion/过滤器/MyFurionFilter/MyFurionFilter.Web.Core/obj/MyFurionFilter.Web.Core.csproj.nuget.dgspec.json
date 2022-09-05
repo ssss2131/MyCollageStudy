@@ -1,0 +1,307 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Web.Core\\MyFurionFilter.Web.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Application\\MyFurionFilter.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Application\\MyFurionFilter.Application.csproj",
+        "projectName": "MyFurionFilter.Application",
+        "projectPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Application\\MyFurionFilter.Application.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Core\\MyFurionFilter.Core.csproj": {
+                "projectPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Core\\MyFurionFilter.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Core\\MyFurionFilter.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Core\\MyFurionFilter.Core.csproj",
+        "projectName": "MyFurionFilter.Core",
+        "projectPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Core\\MyFurionFilter.Core.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Furion": {
+              "target": "Package",
+              "version": "[3.6.3, )"
+            },
+            "Furion.Extras.ObjectMapper.Mapster": {
+              "target": "Package",
+              "version": "[3.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Database.Migrations\\MyFurionFilter.Database.Migrations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Database.Migrations\\MyFurionFilter.Database.Migrations.csproj",
+        "projectName": "MyFurionFilter.Database.Migrations",
+        "projectPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Database.Migrations\\MyFurionFilter.Database.Migrations.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Database.Migrations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.EntityFramework.Core\\MyFurionFilter.EntityFramework.Core.csproj": {
+                "projectPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.EntityFramework.Core\\MyFurionFilter.EntityFramework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.EntityFramework.Core\\MyFurionFilter.EntityFramework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.EntityFramework.Core\\MyFurionFilter.EntityFramework.Core.csproj",
+        "projectName": "MyFurionFilter.EntityFramework.Core",
+        "projectPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.EntityFramework.Core\\MyFurionFilter.EntityFramework.Core.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.EntityFramework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Core\\MyFurionFilter.Core.csproj": {
+                "projectPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Core\\MyFurionFilter.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Web.Core\\MyFurionFilter.Web.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Web.Core\\MyFurionFilter.Web.Core.csproj",
+        "projectName": "MyFurionFilter.Web.Core",
+        "projectPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Web.Core\\MyFurionFilter.Web.Core.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Web.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Application\\MyFurionFilter.Application.csproj": {
+                "projectPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Application\\MyFurionFilter.Application.csproj"
+              },
+              "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Database.Migrations\\MyFurionFilter.Database.Migrations.csproj": {
+                "projectPath": "D:\\.net\\Furion\\过滤器\\MyFurionFilter\\MyFurionFilter.Database.Migrations\\MyFurionFilter.Database.Migrations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

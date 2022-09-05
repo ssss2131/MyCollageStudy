@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@vant/weapp": "^1.10.4",
+    "miniprogram-api-promise": "^1.0.4",
+    "mobx-miniprogram": "^4.13.2",
+    "mobx-miniprogram-bindings": "^1.2.1",
+    "vant": "^3.5.4"
+  }
+}

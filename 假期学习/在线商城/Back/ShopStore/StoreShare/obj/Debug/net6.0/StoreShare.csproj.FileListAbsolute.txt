@@ -1,0 +1,15 @@
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\bin\Debug\net6.0\StoreShare.deps.json
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\bin\Debug\net6.0\StoreShare.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\bin\Debug\net6.0\StoreShare.pdb
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\bin\Debug\net6.0\ShopStoreCore.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\bin\Debug\net6.0\ShopStoreCore.pdb
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\obj\Debug\net6.0\StoreShare.csproj.AssemblyReference.cache
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\obj\Debug\net6.0\StoreShare.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\obj\Debug\net6.0\StoreShare.AssemblyInfoInputs.cache
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\obj\Debug\net6.0\StoreShare.AssemblyInfo.cs
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\obj\Debug\net6.0\StoreShare.csproj.CoreCompileInputs.cache
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\obj\Debug\net6.0\StoreShare.csproj.CopyComplete
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\obj\Debug\net6.0\StoreShare.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\obj\Debug\net6.0\refint\StoreShare.dll
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\obj\Debug\net6.0\StoreShare.pdb
+D:\.net\假期学习\在线商城\Back\ShopStore\StoreShare\obj\Debug\net6.0\ref\StoreShare.dll

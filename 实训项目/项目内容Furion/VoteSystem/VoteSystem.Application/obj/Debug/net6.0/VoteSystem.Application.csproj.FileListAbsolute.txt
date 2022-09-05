@@ -1,0 +1,17 @@
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\bin\Debug\net6.0\VoteSystem.Application.deps.json
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\bin\Debug\net6.0\VoteSystem.Application.dll
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\bin\Debug\net6.0\VoteSystem.Application.pdb
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\bin\Debug\net6.0\VoteSystem.Application.xml
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\bin\Debug\net6.0\VoteSystem.Core.dll
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\bin\Debug\net6.0\VoteSystem.Core.pdb
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\bin\Debug\net6.0\VoteSystem.Core.xml
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\obj\Debug\net6.0\VoteSystem.Application.csproj.AssemblyReference.cache
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\obj\Debug\net6.0\VoteSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\obj\Debug\net6.0\VoteSystem.Application.AssemblyInfoInputs.cache
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\obj\Debug\net6.0\VoteSystem.Application.AssemblyInfo.cs
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\obj\Debug\net6.0\VoteSystem.Application.csproj.CoreCompileInputs.cache
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\obj\Debug\net6.0\VoteSystem.Application.csproj.CopyComplete
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\obj\Debug\net6.0\VoteSystem.Application.dll
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\obj\Debug\net6.0\refint\VoteSystem.Application.dll
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\obj\Debug\net6.0\VoteSystem.Application.pdb
+D:\.net\实训项目\项目内容Furion\VoteSystem\VoteSystem.Application\obj\Debug\net6.0\ref\VoteSystem.Application.dll

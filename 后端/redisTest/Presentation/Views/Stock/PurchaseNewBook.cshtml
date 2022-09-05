@@ -1,0 +1,35 @@
+﻿@model CreateNewBookViewModel
+<form method="post" asp-action="PurchaseNewBook">
+    <label asp-for="@Model.AuthorName"></label>
+    <input asp-for="@Model.AuthorName"/>
+    <br />
+    <span asp-validation-for="@Model.AuthorName"></span>
+    <br />
+    <label asp-for="@Model.BirthTime"></label>
+    <input asp-for="@Model.BirthTime" type="datetime-local" />
+    <br />
+    <span asp-validation-for="@Model.BirthTime"></span>
+    <br />
+    <label asp-for="@Model.BookName"></label>
+    <input asp-for="@Model.BookName" />
+    <br />
+    <span asp-validation-for="@Model.BookName"></span>
+    <br />
+    <label asp-for="@Model.ISBN"></label>
+    <input asp-for="@Model.ISBN" />
+    <br />
+    <span asp-validation-for="@Model.ISBN"></span>
+    <br />
+    <label asp-for="@Model.Publisher"></label>
+    <input asp-for="@Model.Publisher" />
+    <br />
+    <span asp-validation-for="@Model.Publisher"></span>
+    <br />
+    <label asp-for="@Model.Count"></label>
+    <input asp-for="@Model.Count" type="number">
+     <br />
+    <span asp-validation-for="@Model.Count"></span>
+    <br />
+    <button class="button btn-primary" type ="submit">提交</button>
+</form>
+

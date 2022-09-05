@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <div id="app">
+        <input type="text" v-model="username">
+    </div>
+    
+    <script src="./lib/vue.js"></script>
+    <script>
+        const vm = new Vue({
+            el:"#app",
+            data:{
+                username:""
+            },
+            //方法侦听器没有办法使用Immediate
+            watch:{
+                username(newValue,oldValue)
+                {
+                    console.log(`监听到username变化 新值:${newValue} 旧值:${oldValue}`);
+                    //1、调用jquery中ajax发起请求 判断newVal是否被占用
+                    //if(newValue==='') return
+                    //$get('url'+newValue,function(result){ console.log(result)})
+                }
+            }
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ws74HyUF1ne54m9wD+3nCT0RLWO0V03aUkBbc/+TjXR7RkPTTwkMWEpJdKUjYDmWnLg6aFSWkckQ4pjnIx7XXA==",
+  "success": true,
+  "projectFilePath": "D:\\.net\\前端\\Wpf\\Wpf-8 Prism\\RegionModulNav\\RegionModulNav\\ModuleA\\ModuleA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

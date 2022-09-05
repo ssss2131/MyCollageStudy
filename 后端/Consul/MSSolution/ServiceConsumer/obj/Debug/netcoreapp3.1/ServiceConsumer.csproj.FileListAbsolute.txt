@@ -1,0 +1,17 @@
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\bin\Debug\netcoreapp3.1\ServiceConsumer.exe
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\bin\Debug\netcoreapp3.1\ServiceConsumer.deps.json
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\bin\Debug\netcoreapp3.1\ServiceConsumer.runtimeconfig.json
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\bin\Debug\netcoreapp3.1\ServiceConsumer.runtimeconfig.dev.json
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\bin\Debug\netcoreapp3.1\ServiceConsumer.dll
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\bin\Debug\netcoreapp3.1\ServiceConsumer.pdb
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\bin\Debug\netcoreapp3.1\Consul.dll
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.AssemblyInfoInputs.cache
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.AssemblyInfo.cs
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.csproj.CoreCompileInputs.cache
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.csproj.CopyComplete
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.dll
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.pdb
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.genruntimeconfig.cache
+D:\2022-2\新技术\Project\MSSolution\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.csproj.AssemblyReference.cache

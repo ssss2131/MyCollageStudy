@@ -1,0 +1,43 @@
+{
+  //https://ocelot.readthedocs.io/en/latest/features/routing.html
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/webapi-1/{url}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/{url}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44308
+        }
+      ],
+      "ReRouteIsCaseSensitive": false
+      //"AuthenticationOptions": { //Ocelot����ʱ,���鿴������Ƿ����ʹ�ø�����Կע��������֤�ṩ����
+      //  "AuthenticationProviderKey": "TestKey",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "UpstreamPathTemplate": "/auth",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/auth",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44309
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:5000"
+    //"ServiceDiscoveryProvider": {
+    //  "Host": "localhost",
+    //  "Port": 8500
+    //}
+  },
+
+  "DangerousAcceptAnyServerCertificateValidator": false
+}

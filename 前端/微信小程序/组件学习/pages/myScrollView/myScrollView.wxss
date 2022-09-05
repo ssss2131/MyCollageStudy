@@ -1,0 +1,35 @@
+.container1{
+  width: 200rpx;
+  height: 800rpx;
+  background-color: lightpink;
+  display: flex;
+  flex-direction: column;
+}
+
+.container1 view{
+  width: 200rpx;
+  height: 400rpx;
+
+  text-align: center;
+  line-height: 400rpx;
+}
+.container1 view:nth-child(1)
+{
+  background-color: lightskyblue;
+}
+.container1 view:nth-child(2)
+{
+  background-color: lightgreen;
+}
+.container1 view:nth-child(3)
+{
+  background-color: lightpink;
+}
+.container1 view:nth-child(4)
+{
+  background-color: lightsalmon;
+}
+.container1 view:nth-child(5)
+{
+  background-color: lightgray;
+}

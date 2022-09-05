@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Pz7m1KFr0IlqmjRzrkdPYA1qYgfg9GM0a5IiRJf3+F0=",
+  "Source": "NetCoreFoundation",
+  "BasePath": "_content/NetCoreFoundation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NetCoreFoundation\\wwwroot",
+      "Source": "NetCoreFoundation",
+      "ContentRoot": "D:\\.net\\.Net Core\\NetCore基础\\NetCoreFoundation\\wwwroot\\",
+      "BasePath": "_content/NetCoreFoundation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

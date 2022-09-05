@@ -1,0 +1,24 @@
+<view class="avator">
+  <van-image fit="cover" round width="10rem" height="10rem" src="https://img.yzcdn.cn/vant/cat.jpeg" />
+</view>
+<view class="detials">
+
+  <van-collapse value="{{ activeNames }}" bind:change="onChange">
+    <van-collapse-item title="标题1" name="1">
+      <van-grid>
+        <van-grid-item icon="photo-o" text="文字" />
+        <van-grid-item icon="photo-o" text="文字" />
+        <van-grid-item icon="photo-o" text="文字" />
+        <van-grid-item icon="photo-o" text="文字" />
+        <van-grid-item icon="photo-o" text="文字" />
+        <van-grid-item icon="photo-o" text="文字" />
+        <van-grid-item icon="photo-o" text="文字" />
+        <van-grid-item icon="photo-o" text="文字" />
+      </van-grid>
+
+    </van-collapse-item>
+
+  </van-collapse>
+
+
+</view>
